@@ -8,7 +8,7 @@ title: People
 <div style="float: left; margin-right:15px">
     <img src="../images/alyssa.jpeg"/>
 </div>
-[Alyssa Frazee](http://alyssafrazee.com/) is a Ph.D. student in Biostatistics at the Johns Hopkins Bloomberg School of Public Health. She built [derfinder](https://github.com/alyssafrazee/derfinder), [ballgown](https://github.com/alyssafrazee/ballgown) and [RSkittleBrewer](https://github.com/alyssafrazee/RSkittleBrewer) writes an [awesome blog](http://alyssafrazee.com/) which has appeared on the front page of Hacker News.   
+[Alyssa Frazee](http://alyssafrazee.com/) is a Ph.D. student in Biostatistics at the Johns Hopkins Bloomberg School of Public Health. She built [derfinder](https://github.com/alyssafrazee/derfinder), [ballgown](https://github.com/alyssafrazee/ballgown) and [RSkittleBrewer](https://github.com/alyssafrazee/RSkittleBrewer) writes an [awesome blog](http://alyssafrazee.com/) which has appeared on the front page of Hacker News.
 
 </br>
 ---

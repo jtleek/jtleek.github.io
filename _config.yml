@@ -15,7 +15,6 @@ author:
   name:           'Jeff Leek'
   url:            https://twitter.com/jtleek
 
-paginate:         5
 
 # Custom vars
 version:          2.0.0
