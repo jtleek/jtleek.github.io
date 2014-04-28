@@ -26,7 +26,7 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 * Marchionni L, Afsari B, Geman D, Leek JT (2013) _A simple and reproducible breast cancer prognostic test_ BMC Genomics 14 (1) 336[[link]](http://www.biomedcentral.com/1471-2164/14/336?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Bmc%2FGenomics%2FLatestArticles+(BMC+Genomics+-+Latest+articles)) [data and code](http://astor.som.jhmi.edu/~marchion//breastTSP.html)
 * Leek JT, Salzberg SL (2013) _Sequestration: inadvertently killing biomedical research to score political points_ Genome Biology 14 (3), 109 [[link]](http://www.biomedcentral.com/content/pdf/gb-2013-14-3-109.pdf)
 * Pirooznia M, Seifuddin F, Goes FS, Leek JT, Zandi PP (2013) _SVAw - a web-based application tool for automated surrogate variable analysis of gene expression studies_ Source Code for Biology and Medicine 2013, 8:8 [[link]](http://www.biomedcentral.com/content/pdf/1751-0473-8-8.pdf) [[web app]](http://psychiatry.igm.jhmi.edu/sva/)
-* Boca SM*, Corrada Bravo H*, Caffo B, Leek JT+, and Parmigiani G. (2013) "A decision-theory approach to interpretable set analysis for high-dimensional data." Biometrics 69(3): 614-623. [[link]]
+* Boca SM*, Corrada Bravo H*, Caffo B, Leek JT+, and Parmigiani G. (2013) "A decision-theory approach to interpretable set analysis for high-dimensional data." Biometrics 69(3): 614-623. [[link]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927844/pdf/nihms537597.pdf)
 
 ### 2012 
 
