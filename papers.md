@@ -26,7 +26,7 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 * Marchionni L, Afsari B, Geman D, Leek JT (2013) _A simple and reproducible breast cancer prognostic test_ BMC Genomics 14 (1) 336[[link]](http://www.biomedcentral.com/1471-2164/14/336?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Bmc%2FGenomics%2FLatestArticles+(BMC+Genomics+-+Latest+articles)) [data and code](http://astor.som.jhmi.edu/~marchion//breastTSP.html)
 * Leek JT, Salzberg SL (2013) _Sequestration: inadvertently killing biomedical research to score political points_ Genome Biology 14 (3), 109 [[link]](http://www.biomedcentral.com/content/pdf/gb-2013-14-3-109.pdf)
 * Pirooznia M, Seifuddin F, Goes FS, Leek JT, Zandi PP (2013) _SVAw - a web-based application tool for automated surrogate variable analysis of gene expression studies_ Source Code for Biology and Medicine 2013, 8:8 [[link]](http://www.biomedcentral.com/content/pdf/1751-0473-8-8.pdf) [[web app]](http://psychiatry.igm.jhmi.edu/sva/)
-
+* Boca SM*, Corrada Bravo H*, Caffo B, Leek JT+, and Parmigiani G. (2013) "A decision-theory approach to interpretable set analysis for high-dimensional data." Biometrics 69(3): 614-623. [[link]]
 
 ### 2012 
 
@@ -53,7 +53,6 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 * Leek JT , Scharpf RB, Corrada Bravo H*, Simcha D*, Langmead B, Johnson WE, Geman D, Baggerly K, Irizarry RA (2010), "Tackling the widespread and critical impact of batch effects in high-throughput data." Nature Reviews Genetics 11:733-739 [[link]] [pdf] [data]
 * Langmead B, Hansen KD*, Leek JT+ (2010), "Cloud-scale RNA-sequencing differential expression analysis with Myrna." Genome Biology 11:R83. [[link]] [pdf]
-* Boca SM*, Corrada Bravo H*, Brian Caffo, Leek JT+, and Parmigiani G. (2010) "A decision-theory approach to interpretable set analysis for high-dimensional data." JHU Biostat Working Paper 211. [[link]]
 * Lu R, Markowetz F, Unwin RD, Leek JT , Airoldi EM, MacArthur BD, Lachmann A, Rozov R, Ma'ayan A, Boyer LA, Troyanskaya OG, Whetton AD, and Lemischka IR. (2010) "Systems-level dynamic analyses of fate change in murine embryonic stem cells." Nature 462: 358:362. [pdf]
 
 ### 2009 and Earlier 
@@ -63,5 +62,7 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 * Leek JT and Storey JD. (2007) "Capturing heterogeneity in gene expression studies by `Surrogate Variable Analysis'." PLoS Genetics, 3: e161. [pdf] [[software]]
 * Akey JM, Biswas S, Leek JT, and Storey JD. (2007) "On the design and analysis of expression studies in human populations." Nature Genetics, 39: 807-808. [pdf]
 * Storey JD, Dai JY, and Leek JT. (2006), "The optimal discovery procedure for large-scale significance testing, with applications to comparative microarray experiments." Biostatistics, 8: 414-432. [pdf] [[software]]
-* Leek JT, Monsen E, Dabney AR, and Storey JD. (2006), "EDGE: Extraction and analysis of differential gene expression." Bioinformatics, 22: 507-508. [pdf] [[software]]
-*Storey JD, Xiao W, Leek JT, Tompkins RG, and Davis RW. (2005), "Significance analysis of timecourse microarray experiments." Proceedings of the National Academy of Sciences, 102: 12837-12842. [pdf] [[software]]
+* Leek JT, Monsen E, Dabney AR, and Storey JD. (2006), "EDGE: Extraction and analysis of differential gene expression." Bioinformatics, 22: 507-508. [pdf] [[software]] 
+* Storey JD, Xiao W, Leek JT, Tompkins RG, and Davis RW. (2005), "Significance analysis of timecourse microarray experiments." Proceedings of the National Academy of Sciences, 102: 12837-12842. [pdf] [[software]]
+
+* = Hopkins Student/Postdoctoral Fellow; + = J. Leek a corresponding author
