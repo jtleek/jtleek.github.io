@@ -8,7 +8,12 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### Preprints
 
+* Patil P, Bachant-Winner PO, Haibe-Kains B, Leek JT (2014) _Avoiding test set bias with rank-based predictors_ bioRxiv doi:10.1101/005983 [[link]](http://biorxiv.org/content/early/2014/06/06/005983) [[analysis code]](https://github.com/prpatil/testsetbias)
+
+* Frazee AC, Jaffe AE, Langmead B, Leek JT (2014) _Polyester: simulating RNA-seq dataets with differential expression_ bioRxiv doi: 10.1101/006015 [[link]](http://biorxiv.org/content/early/2014/06/06/006015) [[software]](https://github.com/alyssafrazee/polyester) [[analysis code]](https://github.com/alyssafrazee/polyester_code)
+
 * Frazee AC, Pertea G, Jaffe AE, Langmead B, Salzberg SL, Leek JT (2014) _Flexible isoform-level differential expression analysis with Ballgown_ bioRxiv doi: 10.1101/003665 [[link]](http://biorxiv.org/content/early/2014/03/30/003665) [[software]](https://github.com/alyssafrazee/ballgown) [[analysis code]](https://github.com/alyssafrazee/ballgown_code) [[geuvadis data]](https://www.dropbox.com/s/kp5th9hgkq8ckom/geuvadisbg.rda)
+
 * Fisher A, Anderson GB, Leek JT (2014) _A randomized trial in a massive online open course shows people don't know what a statistically significant relationship looks like, but they can learn_  arXiv:1404.5358 [[link]](http://arxiv.org/abs/1404.5358) [[p-value shiny app]](http://glimmer.rstudio.com/afisher/EDA/)
 * Parker HS, Bravo HC, Leek JT (2013) _Removing batch effects for prediction problems with frozen surrogate variable analysis_  arXiv:1301.3947 [[link]](http://arxiv.org/abs/1301.3947) [[code]](http://bioconductor.org/packages/release/bioc/html/sva.html)
 
