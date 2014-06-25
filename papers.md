@@ -8,6 +8,8 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### Preprints
 
+* Leek JT (2014) _svaseq: removing batch effects and other unwanted noise from sequencing data_ bioRxiv doi:10.1101/006585 [[link]](http://biorxiv.org/content/early/2014/06/25/006585) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html) [[analysis code]](https://github.com/jtleek/svaseq)
+
 * Patil P, Bachant-Winner PO, Haibe-Kains B, Leek JT (2014) _Avoiding test set bias with rank-based predictors_ bioRxiv doi:10.1101/005983 [[link]](http://biorxiv.org/content/early/2014/06/06/005983) [[analysis code]](https://github.com/prpatil/testsetbias)
 
 * Frazee AC, Jaffe AE, Langmead B, Leek JT (2014) _Polyester: simulating RNA-seq dataets with differential expression_ bioRxiv doi: 10.1101/006015 [[link]](http://biorxiv.org/content/early/2014/06/06/006015) [[software]](https://github.com/alyssafrazee/polyester) [[analysis code]](https://github.com/alyssafrazee/polyester_code)
