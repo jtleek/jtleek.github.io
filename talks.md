@@ -12,5 +12,6 @@ title: Talks
 * _Alyssa_: [Adventures in Computational Biology](https://speakerdeck.com/alyssafrazee/adventures-in-computational-biology)
 * _Jeff_: [Data science education at JHSPH](http://www.slideshare.net/jtleek/education-37613273)
 * _Jeff_: [Statisticians and big data](http://www.slideshare.net/jtleek/big-data-and-statisticians)
+* _Alyssa_: [Engineering new tools for differential expression analysis](https://speakerdeck.com/alyssafrazee/differential-expression-analysis-tools)
 
 
