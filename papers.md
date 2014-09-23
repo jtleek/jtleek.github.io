@@ -18,10 +18,10 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 * Fisher A, Anderson GB, Leek JT (2014) _A randomized trial in a massive online open course shows people don't know what a statistically significant relationship looks like, but they can learn_  arXiv:1404.5358 [[link]](http://arxiv.org/abs/1404.5358) [[p-value shiny app]](http://glimmer.rstudio.com/afisher/EDA/)
 
-* Parker HS, Bravo HC, Leek JT (2013) _Removing batch effects for prediction problems with frozen surrogate variable analysis_  arXiv:1301.3947 [[link]](http://arxiv.org/abs/1301.3947)  [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html)
-
 
 ### 2014
+
+* Parker HS, Corrada Bravo H, Leek JT. (2014) _Removing batch effects for prediction problems with frozen surrogate variable analysis._ PeerJ 2:e561 [[paper]](http://dx.doi.org/10.7717/peerj.561) [[preprint]](http://arxiv.org/abs/1301.3947) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html)
 
 * Parker HS, Leek JT, Favorov AV, Considine M, Xia X, Chavan S, Chung CH, Fertig EJ (2014) _Preserving biological heterogeneity with a permuted surrogate variable analysis for genomics batch correction_ [[link]](http://bioinformatics.oxfordjournals.org/content/early/2014/06/06/bioinformatics.btu375.long) [[analysis code]](https://sourceforge.net/projects/psva) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html)
 
