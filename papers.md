@@ -8,7 +8,6 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### Preprints
 
-* Leek JT (2014) _svaseq: removing batch effects and other unwanted noise from sequencing data_ bioRxiv doi:10.1101/006585 [[link]](http://biorxiv.org/content/early/2014/06/25/006585) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html) [[analysis code]](https://github.com/jtleek/svaseq)
 
 * Patil P, Bachant-Winner PO, Haibe-Kains B, Leek JT (2014) _Avoiding test set bias with rank-based predictors_ bioRxiv doi:10.1101/005983 [[link]](http://biorxiv.org/content/early/2014/06/06/005983) [[analysis code]](https://github.com/prpatil/testsetbias)
 
@@ -20,6 +19,8 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 
 ### 2014
+
+* Leek JT (2014) _svaseq: removing batch effects and other unwanted noise from sequencing data_ Nucl. Acids Res. doi: 10.1093/nar/gku864 [[paper]](http://nar.oxfordjournals.org/content/early/2014/10/07/nar.gku864.full?keytype=ref&ijkey=Rq9NTea3ZraBKMQ) [[preprint]](http://biorxiv.org/content/early/2014/06/25/006585) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html) [[analysis code]](https://github.com/jtleek/svaseq)
 
 * Parker HS, Corrada Bravo H, Leek JT. (2014) _Removing batch effects for prediction problems with frozen surrogate variable analysis._ PeerJ 2:e561 [[paper]](http://dx.doi.org/10.7717/peerj.561) [[preprint]](http://arxiv.org/abs/1301.3947) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html)
 
