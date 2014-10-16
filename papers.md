@@ -15,14 +15,16 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 * Frazee AC, Pertea G, Jaffe AE, Langmead B, Salzberg SL, Leek JT (2014) _Flexible isoform-level differential expression analysis with Ballgown_ bioRxiv doi: 10.1101/003665 [[link]](http://biorxiv.org/content/early/2014/03/30/003665) [[software]](https://github.com/alyssafrazee/ballgown) [[analysis code]](https://github.com/alyssafrazee/ballgown_code) [[geuvadis data]](https://www.dropbox.com/s/kp5th9hgkq8ckom/geuvadisbg.rda)
 
-* Fisher A, Anderson GB, Leek JT (2014) _A randomized trial in a massive online open course shows people don't know what a statistically significant relationship looks like, but they can learn_  arXiv:1404.5358 [[link]](http://arxiv.org/abs/1404.5358) [[p-value shiny app]](http://glimmer.rstudio.com/afisher/EDA/)
 
 
 ### 2014
 
+* Fisher A, Anderson GB, Leek JT (2014) _A randomized trial in a massive online open course shows people don't know what a statistically significant relationship looks like, but they can learn_ PeerJ 2:e589 DOI 10.7717/peerj.589 [[paper]](https://peerj.com/articles/589/) [[preprint]](http://arxiv.org/abs/1404.5358) [[p-value shiny app]](http://glimmer.rstudio.com/afisher/EDA/)
+
+
 * Leek JT (2014) _svaseq: removing batch effects and other unwanted noise from sequencing data_ Nucl. Acids Res. doi: 10.1093/nar/gku864 [[paper]](http://nar.oxfordjournals.org/content/early/2014/10/07/nar.gku864.full?keytype=ref&ijkey=Rq9NTea3ZraBKMQ) [[preprint]](http://biorxiv.org/content/early/2014/06/25/006585) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html) [[analysis code]](https://github.com/jtleek/svaseq)
 
-* Parker HS, Corrada Bravo H, Leek JT. (2014) _Removing batch effects for prediction problems with frozen surrogate variable analysis._ PeerJ 2:e561 [[paper]](http://dx.doi.org/10.7717/peerj.561) [[preprint]](http://arxiv.org/abs/1301.3947) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html)
+* Parker HS, Corrada Bravo H, Leek JT. (2014) _Removing batch effects for prediction problems with frozen surrogate variable analysis._ PeerJ 2:e561 DOI 10.7717/peerj.561 [[paper]](http://dx.doi.org/10.7717/peerj.561) [[preprint]](http://arxiv.org/abs/1301.3947) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html)
 
 * Parker HS, Leek JT, Favorov AV, Considine M, Xia X, Chavan S, Chung CH, Fertig EJ (2014) _Preserving biological heterogeneity with a permuted surrogate variable analysis for genomics batch correction_ [[link]](http://bioinformatics.oxfordjournals.org/content/early/2014/06/06/bioinformatics.btu375.long) [[analysis code]](https://sourceforge.net/projects/psva) [[software]](http://www.bioconductor.org/packages/devel/bioc/html/sva.html)
 
