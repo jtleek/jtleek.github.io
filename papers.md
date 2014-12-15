@@ -19,6 +19,10 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### 2014
 
+
+Jaffe AE, Shin J, Collado-Torres L, Leek JT, Tao R, Li C, Gao Y, Jia Y, Maher BJ, Hyde TM, Kleinman JE, Weinberger DR (2014) _Developmental regulation of human cortex transcription and its clinical relevance at single base resolution_ Nature Neuroscience doi:10.1038/nn.3898 [[link]](http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3898.html)
+
+
 * Fisher A, Anderson GB, Leek JT (2014) _A randomized trial in a massive online open course shows people don't know what a statistically significant relationship looks like, but they can learn_ PeerJ 2:e589 DOI 10.7717/peerj.589 [[paper]](https://peerj.com/articles/589/) [[preprint]](http://arxiv.org/abs/1404.5358) [[p-value shiny app]](http://glimmer.rstudio.com/afisher/EDA/)
 
 
