@@ -18,7 +18,7 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### 2015
 
-Leek JT and Peng RD (2015) _Opinion: Reproducible research can still be wrong: Adopting a prevention approach_ PNAS 112 (6) 1645-1645 [[link]](http://www.pnas.org/content/112/6/1645.full)
+* Leek JT and Peng RD (2015) _Opinion: Reproducible research can still be wrong: Adopting a prevention approach_ PNAS 112 (6) 1645-1645 [[link]](http://www.pnas.org/content/112/6/1645.full)
 
 
 ### 2014
