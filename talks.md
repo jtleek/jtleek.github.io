@@ -5,7 +5,8 @@ title: Talks
 
 ### 2015
 
-* _Jeff_:[We are all statisticians now (Rome Science Festival)](http://www.slideshare.net/jtleek/leek-romesf2015)
+* _Jeff_: [We are all statisticians now (Rome Science Festival)](http://www.slideshare.net/jtleek/leek-romesf2015)
+* _Alyssa_: [High-resolution gene expression analysis (PhD thesis defense)](https://speakerdeck.com/alyssafrazee/high-resolution-gene-expression-analysis)
 
 
 ### 2014
