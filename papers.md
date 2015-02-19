@@ -8,6 +8,7 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### Preprints
 
+* Collado Torres L, Frazee AC, Love MI, Irizarry RA, Jaffe AE, Leek JT _derfinder: Software for annotation-agnostic RNA-seq differential expression analysis_ [[link]](http://biorxiv.org/content/early/2015/02/19/015370) [[software]](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html)
 
 * Patil P, Bachant-Winner PO, Haibe-Kains B, Leek JT (2014) _Avoiding test set bias with rank-based predictors_ bioRxiv doi:10.1101/005983 [[link]](http://biorxiv.org/content/early/2014/06/06/005983) [[analysis code]](https://github.com/prpatil/testsetbias)
 
