@@ -10,7 +10,7 @@ title: Books
 </div>
 
 * [EDAS on Leanpub](https://leanpub.com/datastyle)
-* Coming soon to Amazon
+* [EDAS on Amazon](http://www.amazon.com/Elements-Data-Analytic-Style-ebook/dp/B00U6D80YY/)
 
 Data analysis is at least as much art as it is science. This book is focused on the details of data analysis that sometimes fall through the cracks in traditional statistics classes and textbooks. It is based in part on the authors blog posts, lecture materials, and tutorials such as: 
 
