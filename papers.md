@@ -14,10 +14,14 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 * Frazee AC, Jaffe AE, Langmead B, Leek JT (2014) _Polyester: simulating RNA-seq dataets with differential expression_ bioRxiv doi: 10.1101/006015 [[link]](http://biorxiv.org/content/early/2014/06/06/006015) [[software devel]](https://github.com/alyssafrazee/polyester)[[software release]](http://www.bioconductor.org/packages/release/bioc/html/polyester.html) [[analysis code]](https://github.com/alyssafrazee/polyester_code)
 
-* Frazee AC, Pertea G, Jaffe AE, Langmead B, Salzberg SL, Leek JT (2014) _Flexible isoform-level differential expression analysis with Ballgown_ bioRxiv doi: 10.1101/003665 [[link]](http://biorxiv.org/content/early/2014/03/30/003665) [[software devel]](https://github.com/alyssafrazee/ballgown) [[software release]](http://www.bioconductor.org/packages/release/bioc/html/ballgown.html) [[analysis code]](https://github.com/alyssafrazee/ballgown_code) [[geuvadis data]](https://www.dropbox.com/s/kp5th9hgkq8ckom/geuvadisbg.rda)
 
 
 ### 2015
+
+
+* Frazee AC, Pertea G, Jaffe AE, Langmead B, Salzberg SL, Leek JT (2015) _Ballgown bridges the gap between transcriptome assembly and expression analysis_ Nature Biotechnology 33, 243–246 (2015) [[link]](http://www.nature.com/nbt/journal/v33/n3/full/nbt.3172.html) [[supplement]](https://github.com/jtleek/jtleek.github.io/blob/master/papers/ballgown_supp.pdf?raw=true) [[preprint]](http://biorxiv.org/content/early/2014/03/30/003665) [[software devel]](https://github.com/alyssafrazee/ballgown) [[software release]](http://www.bioconductor.org/packages/release/bioc/html/ballgown.html) [[analysis code]](https://github.com/alyssafrazee/ballgown_code) [[geuvadis data]](https://www.dropbox.com/s/kp5th9hgkq8ckom/geuvadisbg.rda)
+
+
 
 * Leek JT and Peng RD (2015) _What is the question?_ Science DOI: 10.1126/science.aaa6146 [[link]](http://www.sciencemag.org/content/early/2015/02/25/science.aaa6146.abstract)
 
