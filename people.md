@@ -5,14 +5,6 @@ title: People
 
 ## Students
 
-<div style="float: left; margin-right:15px">
-    <img src="../images/alyssa.jpeg"/>
-</div>
-[Alyssa Frazee](http://alyssafrazee.com/) is a Ph.D. student in Biostatistics at the Johns Hopkins Bloomberg School of Public Health. She built [derfinder](https://github.com/alyssafrazee/derfinder), [ballgown](https://github.com/alyssafrazee/ballgown) and [RSkittleBrewer](https://github.com/alyssafrazee/RSkittleBrewer), and she writes an [awesome blog](http://alyssafrazee.com/) which has appeared on the front page of Hacker News.   
-
-</br>
-
----
 
 <div style="float: left; margin-right:15px">
     <img src="../images/leo.png"/>
@@ -31,17 +23,8 @@ title: People
 
 </br> 
 
-----
 
 
-<div style="float: left; margin-right:15px">
-    <img src="../images/nick.jpeg"/>
-</div>
-[Nick Carchedi](http://nickcarchedi.com/) is a masters student in Biostatistics at the Johns Hopkins Bloomberg School of Public Health. He built [swirl](http://swirlstats.com/) and helped build the [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1).
-
-</br>
-
----
 
 ## Postdocs
 
