@@ -5,6 +5,7 @@ title: Talks
 
 ### 2015
 
+* _Jeff_: [Evidence based data analysis (NAS workshop on statistical reproducibility)](http://www.slideshare.net/jtleek/evidence-based-data-analysis)
 * _Jeff_: [We are all statisticians now (Rome Science Festival)](http://www.slideshare.net/jtleek/leek-romesf2015)
 * _Alyssa_: [High-resolution gene expression analysis (PhD thesis defense)](https://speakerdeck.com/alyssafrazee/high-resolution-gene-expression-analysis)
 
