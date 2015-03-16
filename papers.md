@@ -10,13 +10,13 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 * Collado Torres L, Frazee AC, Love MI, Irizarry RA, Jaffe AE, Leek JT _derfinder: Software for annotation-agnostic RNA-seq differential expression analysis_ bioRxiv doi:10.1101/015370 [[link]](http://biorxiv.org/content/early/2015/02/19/015370) [[software]](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html)
 
-* Patil P, Bachant-Winner PO, Haibe-Kains B, Leek JT (2014) _Avoiding test set bias with rank-based predictors_ bioRxiv doi:10.1101/005983 [[link]](http://biorxiv.org/content/early/2014/06/06/005983) [[analysis code]](https://github.com/prpatil/testsetbias)
-
 * Frazee AC, Jaffe AE, Langmead B, Leek JT (2014) _Polyester: simulating RNA-seq dataets with differential expression_ bioRxiv doi: 10.1101/006015 [[link]](http://biorxiv.org/content/early/2014/06/06/006015) [[software devel]](https://github.com/alyssafrazee/polyester)[[software release]](http://www.bioconductor.org/packages/release/bioc/html/polyester.html) [[analysis code]](https://github.com/alyssafrazee/polyester_code)
 
 
 
 ### 2015
+
+* Patil P, Bachant-Winner PO, Haibe-Kains B, Leek JT (2014) _Avoiding test set bias with rank-based predictors_ Accepted at Bioinformatics [[preprint]](http://biorxiv.org/content/early/2014/06/06/005983) [[analysis code]](https://github.com/prpatil/testsetbias)
 
 
 * Frazee AC, Pertea G, Jaffe AE, Langmead B, Salzberg SL, Leek JT (2015) _Ballgown bridges the gap between transcriptome assembly and expression analysis_ Nature Biotechnology 33, 243–246 (2015) [[link]](http://www.nature.com/nbt/journal/v33/n3/full/nbt.3172.html) [[supplement]](https://github.com/jtleek/jtleek.github.io/blob/master/papers/ballgown_supp.pdf?raw=true) [[preprint]](http://biorxiv.org/content/early/2014/03/30/003665) [[software devel]](https://github.com/alyssafrazee/ballgown) [[software release]](http://www.bioconductor.org/packages/release/bioc/html/ballgown.html) [[analysis code]](https://github.com/alyssafrazee/ballgown_code) [[geuvadis data]](https://www.dropbox.com/s/kp5th9hgkq8ckom/geuvadisbg.rda)

@@ -24,6 +24,28 @@ title: People
 </br> 
 
 
+---
+
+
+<div style="float: left; margin-right:15px">
+    <img src="../images/claire.jpg"/>
+</div>
+[Claire Ruberman](http://www.biostat.jhsph.edu/people/student/ruberman.shtml) is a Ph.D. student in Biostatistics at the Johns Hopkins Bloomberg School of Public Health working with Jeff Leek and Michael Rosenblum. She is developing methods for removing confounding artifacts when inferring graphical models. 
+
+</br> 
+
+
+---
+
+
+<div style="float: left; margin-right:15px">
+    <img src="../images/jack.png"/>
+</div>
+[Jack Fu](http://jfubiostats.com/) is a Ph.D. student in Biostatistics at the Johns Hopkins Bloomberg School of Public Health working with Jeff Leek, Ingo Rucsinski, and Rob Scharpf. He is working on developing methods for quantifying uncertainty about transcriptomes assembled from short read data. 
+
+</br> 
+
+
 
 
 ## Postdocs
