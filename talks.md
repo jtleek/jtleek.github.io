@@ -8,6 +8,7 @@ title: Talks
 * _Jeff_: [Evidence based data analysis (NAS workshop on statistical reproducibility)](http://www.slideshare.net/jtleek/evidence-based-data-analysis)
 * _Jeff_: [We are all statisticians now (Rome Science Festival)](http://www.slideshare.net/jtleek/leek-romesf2015)
 * _Alyssa_: [High-resolution gene expression analysis (PhD thesis defense)](https://speakerdeck.com/alyssafrazee/high-resolution-gene-expression-analysis)
+* _Leo_: [Dissecting human brain development at high resolution using RNA-seq (ENAR 2015)](http://www.slideshare.net/lcolladotor/dissecting-human-brain-development-at-high-resolution-using-rnaseq)
 
 
 ### 2014
