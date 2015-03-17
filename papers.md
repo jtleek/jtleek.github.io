@@ -8,6 +8,8 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### Preprints
 
+* Collado Torres L, Jaffe AE, and Leek JT (2015) _regionReport: Interactive reports for region-based analyses_ bioRxiv doi: [[link]](http://biorxiv.org/content/early/2015/03/17/016659) [[software]](http://master.bioconductor.org/packages/release/bioc/html/regionReport.html)
+
 * Collado Torres L, Frazee AC, Love MI, Irizarry RA, Jaffe AE, Leek JT _derfinder: Software for annotation-agnostic RNA-seq differential expression analysis_ bioRxiv doi:10.1101/015370 [[link]](http://biorxiv.org/content/early/2015/02/19/015370) [[software]](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html)
 
 * Frazee AC, Jaffe AE, Langmead B, Leek JT (2014) _Polyester: simulating RNA-seq dataets with differential expression_ bioRxiv doi: 10.1101/006015 [[link]](http://biorxiv.org/content/early/2014/06/06/006015) [[software devel]](https://github.com/alyssafrazee/polyester)[[software release]](http://www.bioconductor.org/packages/release/bioc/html/polyester.html) [[analysis code]](https://github.com/alyssafrazee/polyester_code)
