@@ -8,7 +8,9 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### Preprints
 
-* Collado Torres L, Jaffe AE, and Leek JT (2015) _regionReport: Interactive reports for region-based analyses_ bioRxiv doi: [[link]](http://biorxiv.org/content/early/2015/03/17/016659) [[software]](http://master.bioconductor.org/packages/release/bioc/html/regionReport.html)
+* Patil P, Rosenblum MA, Leek JT (2015) _Measuring the contribution of genomic predictors to improving estimator precision in randomized trials_ bioRxiv doi:10.1101/018168 [[link]](http://biorxiv.org/content/early/2015/04/16/018168) [[analysis code]](https://github.com/leekgroup/genesigprecision)
+
+* Collado Torres L, Jaffe AE, and Leek JT (2015) _regionReport: Interactive reports for region-based analyses_ bioRxiv doi:10.1101/016659 [[link]](http://biorxiv.org/content/early/2015/03/17/016659) [[software]](http://master.bioconductor.org/packages/release/bioc/html/regionReport.html)
 
 * Collado Torres L, Frazee AC, Love MI, Irizarry RA, Jaffe AE, Leek JT _derfinder: Software for annotation-agnostic RNA-seq differential expression analysis_ bioRxiv doi:10.1101/015370 [[link]](http://biorxiv.org/content/early/2015/02/19/015370) [[software]](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html)
 
