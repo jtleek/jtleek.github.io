@@ -14,11 +14,13 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 * Collado Torres L, Frazee AC, Love MI, Irizarry RA, Jaffe AE, Leek JT _derfinder: Software for annotation-agnostic RNA-seq differential expression analysis_ bioRxiv doi:10.1101/015370 [[link]](http://biorxiv.org/content/early/2015/02/19/015370) [[software]](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html)
 
-* Frazee AC, Jaffe AE, Langmead B, Leek JT (2014) _Polyester: simulating RNA-seq dataets with differential expression_ bioRxiv doi: 10.1101/006015 [[link]](http://biorxiv.org/content/early/2014/06/06/006015) [[software devel]](https://github.com/alyssafrazee/polyester)[[software release]](http://www.bioconductor.org/packages/release/bioc/html/polyester.html) [[analysis code]](https://github.com/alyssafrazee/polyester_code)
 
 
 
 ### 2015
+
+* Frazee AC, Jaffe AE, Langmead B, Leek JT (2015) _Polyester: simulating RNA-seq dataets with differential expression_ Bioinformatics doi:10.1093/bioinformatics/btv272 [[link]](http://bioinformatics.oxfordjournals.org/content/early/2015/04/28/bioinformatics.btv272.full.pdf?keytype=ref&ijkey=Iiw7yJwe0mYsMXP)[[preprint]](http://biorxiv.org/content/early/2014/06/06/006015) [[software devel]](https://github.com/alyssafrazee/polyester)[[software release]](http://www.bioconductor.org/packages/release/bioc/html/polyester.html) [[analysis code]](https://github.com/alyssafrazee/polyester_code)
+
 
 * Leek JT, Peng RD (2015) _P-values are just the tip of the iceberg_ Nature [[link]](http://www.nature.com/news/statistics-p-values-are-just-the-tip-of-the-iceberg-1.17412)
 
