@@ -10,7 +10,6 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 * Patil P, Rosenblum MA, Leek JT (2015) _Measuring the contribution of genomic predictors to improving estimator precision in randomized trials_ bioRxiv doi:10.1101/018168 [[link]](http://biorxiv.org/content/early/2015/04/16/018168) [[analysis code]](https://github.com/leekgroup/genesigprecision)
 
-* Collado Torres L, Jaffe AE, and Leek JT (2015) _regionReport: Interactive reports for region-based analyses_ bioRxiv doi:10.1101/016659 [[link]](http://biorxiv.org/content/early/2015/03/17/016659) [[software]](http://master.bioconductor.org/packages/release/bioc/html/regionReport.html)
 
 * Collado Torres L, Frazee AC, Love MI, Irizarry RA, Jaffe AE, Leek JT _derfinder: Software for annotation-agnostic RNA-seq differential expression analysis_ bioRxiv doi:10.1101/015370 [[link]](http://biorxiv.org/content/early/2015/02/19/015370) [[software]](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html)
 
@@ -18,6 +17,9 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 
 ### 2015
+
+* Collado Torres L, Jaffe AE, and Leek JT (2015) _regionReport: Interactive reports for region-based analyses_ F1000Research 4:105 [[link]](http://f1000research.com/articles/4-105/v1) [[preprint]](http://biorxiv.org/content/early/2015/03/17/016659) [[software]](http://master.bioconductor.org/packages/release/bioc/html/regionReport.html)
+
 
 * Frazee AC, Jaffe AE, Langmead B, Leek JT (2015) _Polyester: simulating RNA-seq dataets with differential expression_ Bioinformatics doi:10.1093/bioinformatics/btv272 [[link]](http://bioinformatics.oxfordjournals.org/content/early/2015/04/28/bioinformatics.btv272.full.pdf?keytype=ref&ijkey=Iiw7yJwe0mYsMXP)[[preprint]](http://biorxiv.org/content/early/2014/06/06/006015) [[software devel]](https://github.com/alyssafrazee/polyester)[[software release]](http://www.bioconductor.org/packages/release/bioc/html/polyester.html) [[analysis code]](https://github.com/alyssafrazee/polyester_code)
 
