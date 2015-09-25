@@ -17,6 +17,8 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### 2015
 
+* Patil, P and Leek JT (2015) _Discussion of “visualizing statistical models: Removing the blindfold”_ Statistical Analysis and Data Mining. doi 10.1002/sam.11275 [link]
+
 * Collado Torres L, Jaffe AE, and Leek JT (2015) _regionReport: Interactive reports for region-based analyses_ F1000Research 4:105 [[link]](http://f1000research.com/articles/4-105/v1) [[preprint]](http://biorxiv.org/content/early/2015/03/17/016659) [[software]](http://master.bioconductor.org/packages/release/bioc/html/regionReport.html)
 
 
