@@ -8,6 +8,8 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### Preprints
 
+* Leek JT, Patil P and Peng RD _A glass half full interpretation of the replicability of psychological science_ [[link]](http://arxiv.org/abs/1509.08968) [[code]](https://github.com/jtleek/replication_paper) [[compliled code]](http://jtleek.com/replication_paper/code/replication_analysis.html)
+
 * Nellore A, Collado-Torres L, Jaffe AE, Morton J, Pritt J, Alquicera-Hernandez J, Leek JT, Langmead B (2015) _Rail-RNA: Scalable analysis of RNA-seq splicing and coverage_ bioRxiv doi:10.1101/019067 [[link]](http://www.biorxiv.org/content/early/2015/05/07/019067) [[software]](https://github.com/nellore/rail)
 
 * Patil P, Rosenblum MA, Leek JT (2015) _Measuring the contribution of genomic predictors to improving estimator precision in randomized trials_ bioRxiv doi:10.1101/018168 [[link]](http://biorxiv.org/content/early/2015/04/16/018168) [[analysis code]](https://github.com/leekgroup/genesigprecision)
