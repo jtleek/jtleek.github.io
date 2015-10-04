@@ -34,5 +34,16 @@ With [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/), [Brian Caffo](http://ww
 * Every class runs every month. 
 * The [course material](https://github.com/DataScienceSpecialization/) is all open source and on Github. 
 * It is designed from the ground up to cover modern version control, R programming, statistics, machine learning, and data products. 
-You can find more info [here](http://jhudatascience.org/) or sign up [here](https://www.coursera.org/specialization/jhudatascience/1)
 
+You can sign up [here](http://jhudatascience.org/) or sign up [here](https://www.coursera.org/specialization/jhudatascience/1)
+
+
+### Genomic Data Science Specialization on Coursera
+
+With [Steven Salzberg](http://salzberg-lab.org/), [James Taylor](http://jamestaylor.org/), [Ela Pertea](http://ccb.jhu.edu/people/mpertea/), [Liliana Florea](http://ccb.jhu.edu/people/florea/), [Ben Langmead](http://www.langmead-lab.org/), and [Kasper Hansen](http://www.hansenlab.org/) we created a 7 course specialization in genomic data science. Some cool things about the program are:
+
+* Every class runs every month. 
+* It is designed from the ground up to cover modern genomics including Galaxy, Python, R, Bioconductor, statistics, computing, and genomic technologies.
+* All of my lecture materials for Statistics for Genomic Data Science are open source and available from the [website](http://jtleek.com/genstats_site/) and the genstats [R package](https://github.com/jtleek/genstats)
+
+You can sign up for the specialization [here](https://www.coursera.org/specializations/genomics)
