@@ -32,7 +32,7 @@ I mostly supervise students from [Biostatistics](http://www.jhsph.edu/department
 
 I am always looking for awesome potential postdocs. I currently have funding to cover postdocs for:
 
-* RNA-seq analysis with [Rafa](http://rafalab.dfci.harvard.edu/), [Ben](http://www.langmead-lab.org/), and [Andrew](http://www.biostat.jhsph.edu/~ajaffe/) and our biological collaborators in psychiatry and oncology. 
+* RNA-seq analysis with [Rafa](http://rafalab.dfci.harvard.edu/), [Ben](http://www.langmead-lab.org/), and [Andrew](http://www.aejaffe.com/) and our biological collaborators in psychiatry and oncology. 
 * Evidence based data analysis with [Roger](http://www.biostat.jhsph.edu/~rpeng/) and [Brian](http://www.bcaffo.com)
 
 Here are the minimum things I look for in a postdoc:
