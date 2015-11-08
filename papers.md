@@ -8,6 +8,7 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### Preprints
 
+
 * Leek JT, Patil P and Peng RD _A glass half full interpretation of the replicability of psychological science_ [[link]](http://arxiv.org/abs/1509.08968) [[code]](https://github.com/jtleek/replication_paper) [[compliled code]](http://jtleek.com/replication_paper/code/replication_analysis.html)
 
 * Nellore A, Collado-Torres L, Jaffe AE, Morton J, Pritt J, Alquicera-Hernandez J, Leek JT, Langmead B (2015) _Rail-RNA: Scalable analysis of RNA-seq splicing and coverage_ bioRxiv doi:10.1101/019067 [[link]](http://www.biorxiv.org/content/early/2015/05/07/019067) [[software]](https://github.com/nellore/rail)
@@ -19,8 +20,9 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### 2015
 
+* Jaffe AE, Hyde T, Kleinman J, Weinberger D, Chenoweth JG, McKay RD, Leek JT, and Colantuoni C. (2015) _Practical impacts of genomic data “cleaning” on biological discovery using surrogate variable analysis_ BMC Bioinformatics 16:372 [[link]](http://www.biomedcentral.com/1471-2105/16/372) [[software]](https://www.bioconductor.org/packages/release/bioc/html/sva.html)
 
-* Patil, P and Leek JT (2015) _Discussion of “visualizing statistical models: Removing the blindfold”_ Statistical Analysis and Data Mining. doi 10.1002/sam.11275 [[link]](http://onlinelibrary.wiley.com/doi/10.1002/sam.11275/abstract)
+* Patil P and Leek JT (2015) _Discussion of “visualizing statistical models: Removing the blindfold”_ Statistical Analysis and Data Mining. doi 10.1002/sam.11275 [[link]](http://onlinelibrary.wiley.com/doi/10.1002/sam.11275/abstract)
 
 
 * Collado Torres L, Jaffe AE, and Leek JT (2015) _regionReport: Interactive reports for region-based analyses_ F1000Research 4:105 [[link]](http://f1000research.com/articles/4-105/v1) [[preprint]](http://biorxiv.org/content/early/2015/03/17/016659) [[software]](http://master.bioconductor.org/packages/release/bioc/html/regionReport.html)
