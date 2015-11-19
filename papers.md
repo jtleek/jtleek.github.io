@@ -20,6 +20,8 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### 2015
 
+* Wu PH, Phillip JM, Khatau SB, Chen WC, Stirman J, Rosseel S, Tschudi K, Van Patten J, Wong M, Gupta S, Baras AS, Leek JT, Maitra A, Wirtz D. (Accepted) _Evolution of cellular morpho-phenotypes in cancer metastasis_ Scientific Reports.
+
 * Jaffe AE, Hyde T, Kleinman J, Weinberger D, Chenoweth JG, McKay RD, Leek JT, and Colantuoni C. (2015) _Practical impacts of genomic data “cleaning” on biological discovery using surrogate variable analysis_ BMC Bioinformatics 16:372 [[link]](http://www.biomedcentral.com/1471-2105/16/372) [[software]](https://www.bioconductor.org/packages/release/bioc/html/sva.html)
 
 * Patil P and Leek JT (2015) _Discussion of “visualizing statistical models: Removing the blindfold”_ Statistical Analysis and Data Mining. doi 10.1002/sam.11275 [[link]](http://onlinelibrary.wiley.com/doi/10.1002/sam.11275/abstract)
