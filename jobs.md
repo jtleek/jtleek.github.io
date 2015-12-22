@@ -17,7 +17,7 @@ I am always excited to talk to students about new projects, it is the [best part
 
 Here are some general things I've been thinking about with lots of sub-ideas to explore: 
 
-* RNA-seq analysis with [Rafa](http://rafalab.dfci.harvard.edu/) and [Andrew] (you'd need to know some R/Bioconductor)
+* RNA-seq analysis with [Rafa](http://rafalab.dfci.harvard.edu/) and [Andrew](http://www.aejaffe.com) (you'd need to know some R/Bioconductor)
 * Scalable RNA-seq with [Abhi](https://twitter.com/AbhiNellore) and [Ben](http://www.langmead-lab.org/)
 * Evidence based data analysis with [Roger](http://www.biostat.jhsph.edu/~rpeng/) and [Brian](http://www.bcaffo.com)
 
