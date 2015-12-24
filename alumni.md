@@ -34,7 +34,7 @@ title: Alumni
 <div style="float: left; margin-right:15px">
     <img src="../images/jaffe.jpg"/>
 </div>
-[Andrew Jaffe](http://www.biostat.jhsph.edu/~ajaffe/) (Ph.D. 2011, advised by Dani Fallin) is now an Investigator at the Lieber Institute for Brain Development. He built software for [variably methylated regions](http://www.biostat.jhsph.edu/~ajaffe/code/vmrFinder.R) and [gene set bagging](http://www.biomedcentral.com/1471-2105/14/360).
+[Andrew Jaffe](http://www.aejaffe.com/) (Ph.D. 2011, advised by Dani Fallin) is now an Investigator at the Lieber Institute for Brain Development. He built software for [variably methylated regions](http://www.biostat.jhsph.edu/~ajaffe/code/vmrFinder.R) and [gene set bagging](http://www.biomedcentral.com/1471-2105/14/360).
 
 
 </br> </br> </br> 
