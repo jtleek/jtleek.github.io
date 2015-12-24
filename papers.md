@@ -9,7 +9,9 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 ### Preprints
 
 
-* Leek JT, Patil P and Peng RD _A glass half full interpretation of the replicability of psychological science_ [[link]](http://arxiv.org/abs/1509.08968) [[code]](https://github.com/jtleek/replication_paper) [[compliled code]](http://jtleek.com/replication_paper/code/replication_analysis.html)
+* Nellore A, Wilks C, Hansen KD, Leek JT, Langmead B _Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud_ [[link]](http://biorxiv.org/content/early/2015/12/24/035287) [[software]](http://rail.bio) [[dbgap docs]](http://docs.rail.bio/dbgap/)
+
+* Leek JT, Patil P and Peng RD (2015) _A glass half full interpretation of the replicability of psychological science_ [[link]](http://arxiv.org/abs/1509.08968) [[code]](https://github.com/jtleek/replication_paper) [[compliled code]](http://jtleek.com/replication_paper/code/replication_analysis.html)
 
 * Nellore A, Collado-Torres L, Jaffe AE, Morton J, Pritt J, Alquicera-Hernandez J, Leek JT, Langmead B (2015) _Rail-RNA: Scalable analysis of RNA-seq splicing and coverage_ bioRxiv doi:10.1101/019067 [[link]](http://www.biorxiv.org/content/early/2015/05/07/019067) [[software]](https://github.com/nellore/rail)
 
