@@ -9,7 +9,9 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 ### Preprints
 
 
-* Nellore A, Wilks C, Hansen KD, Leek JT, Langmead B _Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud_ [[link]](http://biorxiv.org/content/early/2015/12/24/035287) [[software]](http://rail.bio) [[dbgap docs]](http://docs.rail.bio/dbgap/)
+* Boca S and Leek JT (2015) _A regression framework for the proportion of true null hypotheses_ [[link]](http://biorxiv.org/content/early/2015/12/30/035675) [[analysis code]](https://github.com/SiminaB/Fdr-regression)
+
+* Nellore A, Wilks C, Hansen KD, Leek JT, Langmead B (2015) _Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud_ [[link]](http://biorxiv.org/content/early/2015/12/24/035287) [[software]](http://rail.bio) [[dbgap docs]](http://docs.rail.bio/dbgap/)
 
 * Leek JT, Patil P and Peng RD (2015) _A glass half full interpretation of the replicability of psychological science_ [[link]](http://arxiv.org/abs/1509.08968) [[code]](https://github.com/jtleek/replication_paper) [[compliled code]](http://jtleek.com/replication_paper/code/replication_analysis.html)
 
