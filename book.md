@@ -6,7 +6,7 @@ title: Books
 # How to be a modern scientist
 
 <div style="float: right; margin-right:15px">
-    <a href="https://leanpub.com/datastyle"><img src="../images/modernscientist.png"/ height=100></a>
+    <a href="https://leanpub.com/datastyle"><img src="../images/modernscientist.png"/ height="100"></a>
 </div>
 
 * [Modern Scientist on Leanpub](https://leanpub.com/modernscientist)
