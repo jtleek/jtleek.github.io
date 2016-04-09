@@ -20,4 +20,27 @@ Data analysis is at least as much art as it is science. This book is focused on 
 
 The author is one of the co-developers of the Johns Hopkins Specialization in Data Science the largest data science program in the world that has enrolled more than 1.76 million people. The book is useful as a companion to introductory courses in data science or data analysis. It is also a useful reference tool for people tasked with reading and critiquing data analyses. 
 
-The book has a suggested price of $10 but no minimum price and purchase includes access to all updates to the book. 
+The book has a suggested price of $10 but no minimum price and purchase includes access to all updates to the book if you buy it on Leanpub. 
+
+--------
+
+
+<div style="float: right; margin-right:15px">
+    <a href="https://leanpub.com/datastyle"><img src="../images/edas.jpg"/></a>
+</div>
+
+* [Modern Scientist on Leanpub](https://leanpub.com/modernscientist)
+* [Modern scientist on Amazon](http://www.amazon.com/How-modern-scientist-Jeffrey-Leek-ebook/dp/B01E0EON7W)
+
+
+The face of academia is changing. It is no longer sufficient to just publish or perish. We are now in an era where Twitter, Github, Figshare, and Alt Metrics are regular parts of the scientific workflow. Here I give high level advice about which tools to use, how to use them, and what to look out for. This book is appropriate for scientists at all levels who want to stay on top of the current technological developments affecting modern scientific careers. The book is based in part on the author's popular guides including guides for
+
+* [Reviewing papers](https://github.com/jtleek/reviews)
+* [Reading papers](https://github.com/jtleek/readingpapers)
+* [Career planning](https://github.com/jtleek/careerplanning)
+* [Giving talks](https://github.com/jtleek/talkguide)
+
+
+The book is probably most suited to graduate students and postdocs in the sciences, but may be of interest to others who want to adapt their scientific process to use modern tools. 
+
+The book has a suggested price of $10 but no minimum price and purchase includes access to all updates to the book if you buy it on Leanpub. 
