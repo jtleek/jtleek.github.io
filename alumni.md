@@ -24,7 +24,7 @@ title: Alumni
 <div style="float: left; margin-right:15px">
     <img src="../images/hilary.png"/>
 </div>
-[Hilary Parker](https://twitter.com/hspter) (Ph.D. 2013) is now a Data Analyst at [Etsy](https://www.etsy.com/). She built [frozen sva](?) and wrote this [blog post](http://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) that was syndicated in [New York Magazine](http://nymag.com/thecut/2013/01/hillary-most-poisoned-baby-name-in-us-history.html)!
+[Hilary Parker](https://twitter.com/hspter) (Ph.D. 2013) started as a Data Analyst at [Etsy](https://www.etsy.com/) and has now moved to a position at [Stitchfix](https://www.stitchfix.com/). Together with Roger Peng she produces the podcast [Not so Standard Deviations](http://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/). She built [frozen sva](http://www.ncbi.nlm.nih.gov/pubmed/25332844) and wrote this [blog post](http://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) that was syndicated in [New York Magazine](http://nymag.com/thecut/2013/01/hillary-most-poisoned-baby-name-in-us-history.html)!
 
 
 ---
@@ -33,7 +33,7 @@ title: Alumni
 <div style="float: left; margin-right:15px">
     <img src="../images/jaffe.jpg"/>
 </div>
-[Andrew Jaffe](http://www.aejaffe.com/) (Ph.D. 2011, advised by Dani Fallin) is now an Investigator at the Lieber Institute for Brain Development. He built software for [variably methylated regions](http://www.biostat.jhsph.edu/~ajaffe/code/vmrFinder.R) and [gene set bagging](http://www.biomedcentral.com/1471-2105/14/360).
+[Andrew Jaffe](http://www.aejaffe.com/) (Ph.D. 2011, advised by Dani Fallin)  He built software for [variably methylated regions](http://www.biostat.jhsph.edu/~ajaffe/code/vmrFinder.R) and [gene set bagging](http://www.biomedcentral.com/1471-2105/14/360). He is now an Investigator at the Lieber Institute for Brain Development where he runs a group of computational genomics investigators and continues to collaborate with us in the Leek group. 
 
 
 
