@@ -6,23 +6,36 @@ title: Papers
 More info on my [Google Scholar profile](http://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en&oi=ao)
 
 
-### Preprints
+### Preprints 
 
-* Leek JT and Jager LR. _Is most published research really false?_ bioRxiv doi: 10.1101/050575
-[[link]](http://biorxiv.org/content/early/2016/04/27/050575)
+* Jaffe AE, Tao R, Norris A, Kealhofer M, Nellore A, Jia Y, Hyde T, Kleinman J, Straub R, Leek JT, Weinberger D _A framework for RNA quality correction in differential expression analysis_ bioRxiv doi: 10.1101/074245 [[link]](http://biorxiv.org/content/early/2016/09/09/074245)
+
+* Leek JT and Jager LR. (2016) _Is most published research really false?_ bioRxiv doi: 10.1101/050575
+[[link]](http://biorxiv.org/content/early/2016/04/27/050575) accepted at Annual Review of Statistics and its Applications
+
+* Patil P, Peng RD, Leek JT (2016) _A statistical definition for reproducibility and replicability_ bioRxiv doi: 10.1101/066803 [[link]](http://biorxiv.org/content/early/2016/07/29/066803)
+
+* Collado-Torres L, Nellore A, Kammers K, Ellis SE, Taub MA Hansen KD, Jaffe AE Langmead B, Leek JT (2016) _recount: A large-scale resource of analysis-ready RNA-seq expression data_ bioRxiv doi: 10.1101/068478 [[link]](http://biorxiv.org/content/early/2016/08/08/068478) [[database]](https://jhubiostatistics.shinyapps.io/recount/) [[reproducible analysis]](http://leekgroup.github.io/recount-analyses/) [[software]](https://bioconductor.org/packages/devel/bioc/html/recount.html)
 
 * Boca S and Leek JT (2015) _A regression framework for the proportion of true null hypotheses_ bioRxiv doi:10.1101/035675 [[link]](http://biorxiv.org/content/early/2015/12/30/035675) [[analysis code]](https://github.com/SiminaB/Fdr-regression)
 
-* Nellore A, Collado-Torres L, Jaffe AE, Morton J, Pritt J, Alquicera-Hernandez J, Leek JT, Langmead B (2015) _Rail-RNA: Scalable analysis of RNA-seq splicing and coverage_ bioRxiv doi:10.1101/019067 [[link]](http://www.biorxiv.org/content/early/2015/05/07/019067) [[software]](https://github.com/nellore/rail)
-
-
-* Collado Torres L, Frazee AC, Love MI, Irizarry RA, Jaffe AE, Leek JT _derfinder: Software for annotation-agnostic RNA-seq differential expression analysis_ bioRxiv doi:10.1101/015370 [[link]](http://biorxiv.org/content/early/2015/02/19/015370) [[software]](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html)
 
 ### 2016
 
+
+* Manimaran S, Selby HM, Okrah K, Ruberman C, Leek JT, Quackenbush J, Haibe-Kains B, Corrada Bravo H, Johnson WE (2016) _BatchQC: Interactive software for evaluating sample and batch effects in genomic data_ Bioinformatics doi: 10.1093/bioinformatics/btw538 [[link]](http://bioinformatics.oxfordjournals.org/content/early/2016/09/19/bioinformatics.btw538)
+
+* Nellore A, Collado-Torres L, Jaffe AE, Morton J, Pritt J, Alquicera-Hernandez J, Leek JT, Langmead B (2015) _Rail-RNA: Scalable analysis of RNA-seq splicing and coverage_ bioRxiv doi:10.1101/019067 [[link]](http://www.biorxiv.org/content/early/2015/05/07/019067) [[software]](https://github.com/nellore/rail) (accepted at Bioinformatics)
+
+* Collado Torres L, Frazee AC, Love MI, Irizarry RA, Jaffe AE, Leek JT _derfinder: Software for annotation-agnostic RNA-seq differential expression analysis_ bioRxiv doi:10.1101/015370 [[link]](http://biorxiv.org/content/early/2015/02/19/015370) [[software]](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html) (accepted at Nucleic Acids Research)
+
+* Darby MM, Leek JT, Langmead B, Yolken RB, Sabunciyan S (2016) _Widespread Splicing of Repetitive Element Loci into Coding Regions of Gene Transcripts_ Hum. Mol. Genet. doi: 10.1093/hmg/ddw321
+
+* Pertea M, Kim D, Pertea GM, Leek JT, Salzberg SL (2016) _Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown_ Nature Protocols 11, 1650–1667
+
 * Nellore A, Wilks C, Hansen KD, Leek JT, Langmead B (2016) _Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud_ Bioinformatics [[link]](http://biorxiv.org/content/early/2015/12/24/035287) [[software]](http://rail.bio) [[dbgap docs]](http://docs.rail.bio/dbgap/)
 
-* Leek JT, Patil P and Peng RD (2016) _What should we expect when we replicate? A statistical view of replicability in psychological science_ Perspectives in Psychological Science [[preprint]](http://arxiv.org/abs/1509.08968) [[code]](https://github.com/jtleek/replication_paper) [[compliled code]](http://jtleek.com/replication_paper/code/replication_analysis.html)
+* Leek JT, Patil P and Peng RD (2016) _What should researchers expect when they replicate studies? A statistical view of replicability in psychological science_ Perspectives in Psychological Science [[preprint]](http://arxiv.org/abs/1509.08968) [[code]](https://github.com/jtleek/replication_paper) [[compliled code]](http://jtleek.com/replication_paper/code/replication_analysis.html)
 
 * Patil, P, Colantuoni, E, Leek, JT, Rosenblum, M (2016) _Measuring the contribution of genomic predictors to improving estimator precision in randomized trials_  Contemporary Clinical Trials Communications. [[preprint]](http://biorxiv.org/content/early/2015/04/16/018168) [[analysis code]](https://github.com/leekgroup/genesigprecision)
 
