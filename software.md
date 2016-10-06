@@ -5,6 +5,7 @@ title: Software
 
 Find me on [Github](http://github.com/jtleek)
 
+* [[papr]](jhubiostatistics.shinyapps.io/papr) - A tindr like web-app for rating preprints from bioRxiv. 
 * [[Rail-RNA]](https://github.com/nellore/rail) Rail-RNA is software for alignment of multiple RNA-seq samples jointly that can be run on a local computer, on a local cluster, or on the AWS cloud. 
 * [[ballgown]](https://github.com/alyssafrazee/ballgown) Statistical backend for analyzing population level data from Cufflinks. Written by Alyssa Frazee, Geo Pertea, and Jeff Leek. 
 * [[derfinder]](https://github.com/lcolladotor/derfinder) Fast differential expression analysis of RNA-seq data at base-pair resolution. Written by Leo Collado Torres, Alyssa Frazee, Andrew Jaffe, Rafa Irizarry, and Jeff Leek.  
