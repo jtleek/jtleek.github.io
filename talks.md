@@ -3,6 +3,12 @@ layout: page
 title: Talks
 ---
 
+### 2016
+
+* _Jeff_: [Is the p-value really the problem?](https://docs.google.com/presentation/d/1nbaKvANCZkN8hbrd31R25WIfQszWFjGyiGeRaqHO1pI/edit?usp=sharing)
+* _Jeff_: [Data science as a science](http://www.slideshare.net/jtleek/data-science-as-a-science)
+
+
 ### 2015
 
 * _Jeff_: [JHU Data Science MOOCs - behind the scenes](http://www.slideshare.net/jtleek/jhu-data-science-moocs-behind-the-scenes)
