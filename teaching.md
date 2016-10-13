@@ -5,7 +5,7 @@ title: Teaching
 
 ### Ph.D. Advanced Data Science
 
-Provides an intensive introduction to applied statistics and data analysis. Trains students to become data scientists capable of both applied data analysis and critical evaluation of the next generation next generation of statistical methods. Since both data analysis and methods development require substantial hands-on experience, focuses on hands-on data analysis.
+Provides an intensive introduction to applied statistics and data analysis. Trains students to become data scientists capable of both applied data analysis and critical evaluation of the next generation of statistical methods. Since both data analysis and methods development require substantial hands-on experience, focuses on hands-on data analysis.
 
 * JHSPH 150.711 - Advanced Data Science I [[2015 Site]](http://jtleek.com/advdatasci/)
 
