@@ -5,6 +5,7 @@ title: Talks
 
 ### 2016
 
+* _Jeff_: [Re-annotating the human transcriptome with recount](https://docs.google.com/presentation/d/1XCLfuCD1A0ODczmg4oKK5E3n-dwh6ohHjCYSj_doqbU/edit?usp=sharing)
 * _Jeff_: [Is the p-value really the problem?](https://docs.google.com/presentation/d/1nbaKvANCZkN8hbrd31R25WIfQszWFjGyiGeRaqHO1pI/edit?usp=sharing)
 * _Jeff_: [Data science as a science](http://www.slideshare.net/jtleek/data-science-as-a-science)
 
