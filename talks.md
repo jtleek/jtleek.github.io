@@ -3,6 +3,10 @@ layout: page
 title: Talks
 ---
 
+### 2017
+
+* _Jeff_: [Is most published research really false?](https://docs.google.com/presentation/d/12SAKwzNs97DjcwTvIUi5husTf3EFlX_pfyxCKRjictE/edit?usp=sharing)
+
 ### 2016
 
 * _Jeff_: [Re-annotating the human transcriptome with recount](https://docs.google.com/presentation/d/1XCLfuCD1A0ODczmg4oKK5E3n-dwh6ohHjCYSj_doqbU/edit?usp=sharing)
