@@ -10,15 +10,17 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 * Jaffe AE, Tao R, Norris A, Kealhofer M, Nellore A, Jia Y, Hyde T, Kleinman J, Straub R, Leek JT, Weinberger D _A framework for RNA quality correction in differential expression analysis_ bioRxiv doi: 10.1101/074245 [[link]](http://biorxiv.org/content/early/2016/09/09/074245)
 
-* Leek JT and Jager LR. (2016) _Is most published research really false?_ bioRxiv doi: 10.1101/050575
-[[link]](http://biorxiv.org/content/early/2016/04/27/050575) accepted at Annual Review of Statistics and its Applications
-
 * Patil P, Peng RD, Leek JT (2016) _A statistical definition for reproducibility and replicability_ bioRxiv doi: 10.1101/066803 [[link]](http://biorxiv.org/content/early/2016/07/29/066803)
-
-* Collado-Torres L, Nellore A, Kammers K, Ellis SE, Taub MA Hansen KD, Jaffe AE Langmead B, Leek JT (2016) _recount: A large-scale resource of analysis-ready RNA-seq expression data_ bioRxiv doi: 10.1101/068478 [[link]](http://biorxiv.org/content/early/2016/08/08/068478) [[database]](https://jhubiostatistics.shinyapps.io/recount/) [[reproducible analysis]](http://leekgroup.github.io/recount-analyses/) [[software]](https://bioconductor.org/packages/devel/bioc/html/recount.html)
 
 * Boca S and Leek JT (2015) _A regression framework for the proportion of true null hypotheses_ bioRxiv doi:10.1101/035675 [[link]](http://biorxiv.org/content/early/2015/12/30/035675) [[analysis code]](https://github.com/SiminaB/Fdr-regression)
 
+### 2017
+
+* Kammers K, Taub MA, Ruczinski I, Martin J, Yanek LR, Frazee A, Gao Y, Hoyle D, Faraday N, Becker DM, Cheng L, Wang ZZ, Leek JT, Becker LC, Mathias RA (2017) _Integrity of induced pluripotent stem cell (iPSC) derived megakaryocytes as assessed by genetic and transcriptomic analysis_ accepted at PLoS One.
+
+* Leek JT and Jager LR. (2017) _Is most published research really false?_ bioRxiv doi: 10.1101/050575 [[link]](http://biorxiv.org/content/early/2016/04/27/050575) accepted at Annual Review of Statistics and its Applications
+
+* Collado-Torres L, Nellore A, Kammers K, Ellis SE, Taub MA Hansen KD, Jaffe AE Langmead B, Leek JT (2017) _recount: A large-scale resource of analysis-ready RNA-seq expression data_ bioRxiv doi: 10.1101/068478 [[link]](http://biorxiv.org/content/early/2016/08/08/068478) [[database]](https://jhubiostatistics.shinyapps.io/recount/) [[reproducible analysis]](http://leekgroup.github.io/recount-analyses/) [[software]](https://bioconductor.org/packages/devel/bioc/html/recount.html) accepted at Nature Biotechnology.
 
 ### 2016
 
