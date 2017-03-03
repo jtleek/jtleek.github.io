@@ -5,6 +5,8 @@ title: Talks
 
 ### 2017
 
+* _Jeff_: [What can we learn about RNA
+from 70,000 (human) samples?](https://docs.google.com/presentation/d/1GBdWeHU5HI6Fqy9NDe_6RL2oDl5HjJdsmCHSBlAk0m4/edit?usp=sharing)
 * _Jeff_: [Is most published research really false?](https://docs.google.com/presentation/d/12SAKwzNs97DjcwTvIUi5husTf3EFlX_pfyxCKRjictE/edit?usp=sharing)
 
 ### 2016
