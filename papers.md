@@ -16,9 +16,9 @@ More info on my [Google Scholar profile](http://scholar.google.com/citations?use
 
 ### 2017
 
-* Kammers K, Taub MA, Ruczinski I, Martin J, Yanek LR, Frazee A, Gao Y, Hoyle D, Faraday N, Becker DM, Cheng L, Wang ZZ, Leek JT, Becker LC, Mathias RA (2017) _Integrity of induced pluripotent stem cell (iPSC) derived megakaryocytes as assessed by genetic and transcriptomic analysis_ accepted at PLoS One.
+* Kammers K, Taub MA, Ruczinski I, Martin J, Yanek LR, Frazee A, Gao Y, Hoyle D, Faraday N, Becker DM, Cheng L, Wang ZZ, Leek JT, Becker LC, Mathias RA (2017) _Integrity of induced pluripotent stem cell (iPSC) derived megakaryocytes as assessed by genetic and transcriptomic analysis_ [[link]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167794) PLoS One. e0167794
 
-* Leek JT and Jager LR. (2017) _Is most published research really false?_ bioRxiv doi: 10.1101/050575 [[link]](http://biorxiv.org/content/early/2016/04/27/050575) accepted at Annual Review of Statistics and its Applications
+* Leek JT and Jager LR. (2017) _Is most published research really false?_ [[link]](http://www.annualreviews.org/eprint/eAkPEF7ABf83x7KsmvRY/full/10.1146/annurev-statistics-060116-054104) Annual Review of Statistics and its Applications 4:109-122. 
 
 * Collado-Torres L, Nellore A, Kammers K, Ellis SE, Taub MA Hansen KD, Jaffe AE Langmead B, Leek JT (2017) _recount: A large-scale resource of analysis-ready RNA-seq expression data_ bioRxiv doi: 10.1101/068478 [[link]](http://biorxiv.org/content/early/2016/08/08/068478) [[database]](https://jhubiostatistics.shinyapps.io/recount/) [[reproducible analysis]](http://leekgroup.github.io/recount-analyses/) [[software]](https://bioconductor.org/packages/devel/bioc/html/recount.html) accepted at Nature Biotechnology.
 
