@@ -5,6 +5,7 @@ title: Talks
 
 ### 2017
 
+* _Jeff_: [What can we (& you) learn about RNA from 70,000 (human) samples? (UCLA)](https://docs.google.com/presentation/d/1OGOVApkE72TqCWV0aMOfiwLzzZWoH8ZCprOWs8Pz1R0/edit?usp=sharing)
 * _Jeff_: [What can we (& you) learn about RNA from 70,000 (human) samples? (OHSU)](https://docs.google.com/presentation/d/1rAXyjdIvRBkRw93DinMUhfj9vs9yqfcEBctD4jO-Xgo/edit?usp=sharing)
 * _Jeff_: [What can we (& you) learn about RNA from 70,000 (human) samples?](https://docs.google.com/presentation/d/1mjMF1yDGgLQW4JNgiKO7XBY7I7j2laTq1kGYo3Q1rYw/edit?usp=sharing)
 * _Jeff_: [Data Science as a Science](https://docs.google.com/presentation/d/1qf4_78ArLmL6MWwchLm1HPMBft5jJfdEhpTk2UPecHo/edit?usp=sharing)
