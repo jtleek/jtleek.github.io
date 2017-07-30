@@ -5,7 +5,7 @@ title: Talks
 
 ### 2017
 
-* _Jeff_: [Coming to terms with data overload in science](https://docs.google.com/presentation/d/1diGUr8oHmJByBJy9eEvLBh3qIpUIjjy1P2TxasAWSHo/edit?usp=sharing)
+* _Jeff_: [Coming to terms with data overload in science](https://docs.google.com/presentation/d/1diGUr8oHmJByBJy9eEvLBh3qIpUIjjy1P2TxasAWSHo/edit?usp=sharing), [pdf](https://github.com/jtleek/jtleek.github.io/files/1185814/jsm2017.pdf)
 * _Jeff_: [What can we (& you) learn about RNA from 70,000 (human) samples? (UCLA)](https://docs.google.com/presentation/d/1OGOVApkE72TqCWV0aMOfiwLzzZWoH8ZCprOWs8Pz1R0/edit?usp=sharing)
 * _Jeff_: [What can we (& you) learn about RNA from 70,000 (human) samples? (OHSU)](https://docs.google.com/presentation/d/1rAXyjdIvRBkRw93DinMUhfj9vs9yqfcEBctD4jO-Xgo/edit?usp=sharing)
 * _Jeff_: [What can we (& you) learn about RNA from 70,000 (human) samples?](https://docs.google.com/presentation/d/1mjMF1yDGgLQW4JNgiKO7XBY7I7j2laTq1kGYo3Q1rYw/edit?usp=sharing)
