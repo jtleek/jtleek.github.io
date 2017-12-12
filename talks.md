@@ -5,6 +5,8 @@ title: Talks
 
 ### 2017
 
+
+* _Jeff_: [The data science problem is humans and the solution is the internet](https://docs.google.com/presentation/d/1f2Kzwh0ObGo7TACIzCIa5GsI3UqF8Eez11RT3TdwypU/edit?usp=sharing)
 * _Jeff_: [Building a human gene expression resource (New York Genome Center)](https://docs.google.com/presentation/d/1_fNKQAHe3_ALBVUyRIZ83sRIsdq9O6ygnPTyrRvRXQI/edit?usp=sharing)
 * _Jeff_: [Is most published research false? (McGill)](https://docs.google.com/presentation/d/1hzdSDaPPSE9xUYZHhOVfQIRPPdwe0A9SdE7QDsK3bOA/edit?usp=sharing) 
 * _Jeff_: [Coming to terms with data overload in science](https://docs.google.com/presentation/d/1diGUr8oHmJByBJy9eEvLBh3qIpUIjjy1P2TxasAWSHo/edit?usp=sharing), [pdf](https://github.com/jtleek/jtleek.github.io/files/1185814/jsm2017.pdf)
