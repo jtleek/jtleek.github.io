@@ -100,6 +100,11 @@ Siruo is a PhD student in the Department of Biostatistics at the Johns Hopkins S
 * [github](https://github.com/SiruoWang)
 * [web](https://www.linkedin.com/in/siruo-sara-wang-5126a998)
 
+__Kayode Sosina__
+
+Kayode is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. In our group he is working on developing methods for artifact correction in expression quantitative trait locus (eQTL) studies. 
+
+* [web](https://www.linkedin.com/in/kayodesosina/)
 
 ### Alumni
 
