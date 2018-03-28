@@ -1,0 +1,30 @@
+name: Leek group
+output_dir: '.'
+navbar:
+  title: Leek group
+  left:
+  - text: Home
+    href: index.html
+  - text: Projects
+    href: projects.html
+  - text: Data and code
+    href: codedata.html
+  - text: Members
+    href: members.html
+  - text: Books
+    href: books.html
+  - text: Talks
+    href: talks.html
+  - text: Blog
+    href: https://simplystatistics.org/
+  - text: Join us
+    href: join.html
+  
+output:
+  html_document:
+    theme: paper
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
+    css: styles.css
+

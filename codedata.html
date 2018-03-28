@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Leek group</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="codedata.html">Data and code</a>
+</li>
+<li>
+  <a href="members.html">Members</a>
+</li>
+<li>
+  <a href="books.html">Books</a>
+</li>
+<li>
+  <a href="talks.html">Talks</a>
+</li>
+<li>
+  <a href="https://simplystatistics.org/">Blog</a>
+</li>
+<li>
+  <a href="join.html">Join us</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p></br> </br></p>
+<div id="code" class="section level3">
+<h3>Code</h3>
+<p>Find me on <a href="http://github.com/jtleek">Github</a></p>
+<ul>
+<li><a href="https://github.com/seankross/ari">ari</a> - An R package for synthesizing voices from text files and R markdown files created by Sean Kross.</li>
+<li><a href="https://github.com/jhudsl/matahari">matahari</a> - An R package for collecting data on the way people analyze data created by Sean Kross.</li>
+<li><a href="http://jhubiostatistics.shinyapps.io/papr">papr</a> - A tindr like web-app for rating preprints from bioRxiv. Written by Lucy D’Agostino McGowan, Nicholas Strayer, and Jeff Leek.</li>
+<li><a href="https://github.com/nellore/rail">Rail-RNA</a> Rail-RNA is software for alignment of multiple RNA-seq samples jointly that can be run on a local computer, on a local cluster, or on the AWS cloud.</li>
+<li><a href="https://github.com/alyssafrazee/ballgown">ballgown</a> Statistical backend for analyzing population level data from Cufflinks. Written by Alyssa Frazee, Geo Pertea, and Jeff Leek.</li>
+<li><a href="https://github.com/lcolladotor/derfinder">derfinder</a> Fast differential expression analysis of RNA-seq data at base-pair resolution. Written by Leo Collado Torres, Alyssa Frazee, Andrew Jaffe, Rafa Irizarry, and Jeff Leek.<br />
+</li>
+<li><a href="http://master.bioconductor.org/packages/release/bioc/html/regionReport.html">regionReport</a> Software for creating interactive, reproducible HTML reports for derfinder. Written by Leo Collado Torres.</li>
+<li><a href="https://github.com/alyssafrazee/polyester">polyester</a> R package for simulating RNA seq reads. Written by Alyssa Frazee and Andrew Jaffe.</li>
+<li><a href="http://www.bioconductor.org/packages/devel/bioc/html/sva.html">sva</a> It has been shown that genome-wide expression may be affected by environmental, demographic, genetic and technical factors, creating what we call expression heterogeneity. Surrogate variable analysis (SVA) is designed to identify, estimate, and incorporate into an analysis the sources of expression heterogeneity that are not captured by variables included in the model. SVA has been shown to reduce dependence across genes, stablize false discovery rate estimates, and improve reproducibility of analyses. Written by Jeff Leek, Evan Johnson, Hilary Parker, Andrew Jaffe and John Storey.</li>
+<li><a href="http://biostat.jhsph.edu/~jleek/validate/">validate</a> A key component of performing any genomics experiment is validation of significant features (genes, proteins, etc.). This software can be used to assess the statistical evidence for validation of a particular analysis/technology on the basis of a random sample of significant results. Written by Jeff Leek.</li>
+<li><a href="https://github.com/jtleek/tspreg">tspreg</a> Top scoring pairs regression models. For building multiclass and survival top scoring pairs, written by Jeff Leek and Prasad Patil.</li>
+<li><a href="http://www.bioconductor.org/packages/2.9/bioc/html/dks.html">dks</a> The explosive growth of high-dimensional data has resulted in an equally explosive growth in methods for analyzing high-dimensional data. Almost all of these methods rely on p-values, corrected p-values, or false discovery rate estimates for ranking and significance calculation. However, there is no clear standard for determining whether the p-values from a new multiple testing procedure are correct. The double Kolmogorov-Smirnov package consists of a set of R functions for diagnosing whether a multiple testing procedure gives correct null p-values using simulated data.Written by Jeff Leek.</li>
+<li><a href="http://bowtie-bio.sourceforge.net/myrna/index.shtml">myrna</a> Myrna is a cloud computing tool for calculating differential gene expression in large RNA-seq datasets. Myrna uses Bowtie for short read alignment and R/Bioconductor for interval calculations, normalization, and statistical testing. These tools are combined in an automatic, parallel pipeline that runs in the cloud (Elastic MapReduce in this case) on a local Hadoop cluster, or on a single computer, exploiting multiple computers and CPUs wherever possible. Written by Ben Langmead, Kasper Hansen, and Jeff Leek.</li>
+<li><a href="http://bioconductor.org/packages/release/bioc/html/edge.html">edge</a> A comprehensive software package for the significance analysis of DNA microarray experiments – for both standard and time course experiments – based on our new optimal discovery procedure and time course methodology. Written by John Storey, Jeff Leek,and Andrew Bass.</li>
+<li><a href="http://www.bioconductor.org/packages/release/bioc/html/tspair.html">tspair</a> A top scoring pair is a pair of genes whose relative ranks can be used to classify arrays according to a binary phenotype. A top scoring pair classifier has three advantages over standard classifiers: (1) the classifier is based on the relative ranks of genes and is more robust to normalization and preprocessing, (2) the classifier is based on a pair of genes and is likely to be more interpretable than a more complicated classifier, and (3) a classfier based on a small number of genes lends itself to diagnostic tests based on PCR that are both more rapid and cheaper than classifiers based on a large number of genes. Written by Jeff Leek.</li>
+<li><a href="https://github.com/SiminaB/Set">Set</a> This package implements a decision-theoretic approach to gene-set analysis, considering a number of different loss functions introduced in the companion Boca et al. (2013) Biometrics paper. Written by Simina Boca, Hector Corrada Bravo, Jeff Leek.</li>
+</ul>
+<hr />
+</div>
+<div id="data" class="section level3">
+<h3>Data</h3>
+<ul>
+<li><a href="https://github.com/jtleek/tidypvals">tidypvals</a> - data from over 2.5 million published p-values compiled by Jeff Leek.</li>
+<li><a href="https://jhubiostatistics.shinyapps.io/recount/">recount2</a> - large collection of RNA-seq data created by Leo Collado Torres, Ben Langmead, and Abhi Nellore.<br />
+</li>
+<li><a href="http://bowtie-bio.sourceforge.net/recount/">Recount</a> a database of free RNA-seq data sets at the gene count level created by Alyssa Frazee</li>
+<li><a href="https://github.com/jtleek/swfdr/blob/master/pvalueData.rda">Medical Journal P-value Data</a> - a set of p-values scraped from the abstracts of the New England Journal of Medicine, JAMA, BMJ, The Lancet, and the Amerian Journal of Epidemiology from 2000-2010 created by Jeff Leek.</li>
+<li><a href="https://www.dropbox.com/s/kp5th9hgkq8ckom/geuvadisbg.rda">Processed GEUVADIS data</a> - processed data from 667 RNA-seq samples from the <a href="http://www.geuvadis.org/">GEUVADIS</a> project created by Alyssa Frazee.</li>
+<li><a href="http://www.ebi.ac.uk/arrayexpress/experiments/E-GEUV-6/">GEUVADIS BAM files</a> - processed with Tophat2 and created by Alyssa Frazee</li>
+<li><a href="http://bioconductor.org/packages/release/bioc/html/antiProfiles.html">anitProfiles data</a> - gene expression data from cancer and normal samples used in our paper on <a href="http://www.biomedcentral.com/1471-2105/13/272">classifying with variance</a> created by Hector Corrada Bravo.</li>
+<li><a href="http://www.biostat.jhsph.edu/~jleek/peerreview">Peer review data</a> - data from our laboratory experiment of peer review created by Jeff Leek and Margaret Taub.</li>
+<li><a href="http://rafalab.jhsph.edu/batch/">Batch effect data</a> - data on batch effects from a range of genomic technologies created by Jeff Leek, Rafa Irizarry,Hector Corrada Bravo, Ben Langmead, Keith Baggerly, Evan Johnson, Rob Scharpf, and David Simcha.</li>
+<li><a href="http://www.bioconductor.org/packages/devel/data/experiment/html/bladderbatch.html">Bladder batch data</a> - data on batch effects from a study of bladder cancer in expression set format created by Jeff Leek</li>
+<li><a href="http://braincloud.jhmi.edu">Braincloud</a> - data from <a href="http://www.nature.com/nature/journal/v478/n7370/full/nature10524.html">our paper</a> looking at patterns of variation in gene expression in the human brain created by Carlo Colantuoni.</li>
+</ul>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

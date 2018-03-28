@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Leek group</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="codedata.html">Data and code</a>
+</li>
+<li>
+  <a href="members.html">Members</a>
+</li>
+<li>
+  <a href="books.html">Books</a>
+</li>
+<li>
+  <a href="talks.html">Talks</a>
+</li>
+<li>
+  <a href="https://simplystatistics.org/">Blog</a>
+</li>
+<li>
+  <a href="join.html">Join us</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p></br> </br></p>
+<div id="faculty" class="section level3">
+<h3>Faculty</h3>
+<p><strong>Jeff Leek</strong></p>
+<p>Jeff is a Professor of Biostatistics and Oncology at the Johns Hopkins Bloomberg School of Public Health. His research focuses on public health genomics, data science as a science, and research on the scientific literature. He is also co-creator of the Johns Hopkins Data Science Specialization on Coursera (<a href="https://www.coursera.org/specializations/jhu-data-science" class="uri">https://www.coursera.org/specializations/jhu-data-science</a>) that has enrolled over 4 million. He is a co-editor of the journal <a href="https://biostatistics.oxfordjournals.org/">Biostatistics</a>. He writes a blog at <a href="https://simplystatistics.org/">Simply Statistics</a> and is the co-director of the <a href="http://jhudatascience.org/">Johns Hopkins Data Science Lab</a>.</p>
+<ul>
+<li><a href="https://twitter.com/jtleek">twitter</a></li>
+<li><a href="https://github.com/jtleek">github</a></li>
+<li><a href="http://jtleek.com/">web</a></li>
+</ul>
+<hr />
+</div>
+<div id="affiliated-faculty" class="section level3">
+<h3>Affiliated Faculty</h3>
+<p><strong>Kai Kammers</strong></p>
+<p>Kai is an Assistant Professor in the Division of Biostatistics and Bioinformatics Department of Oncology at the Sidney Kimmel Cancer Research Center. His research focused on statistical methods development and analysis of genomic data from high-throughput sequencing and proteomic technologies. He is also a conributor to our group’s <a href="https://jhubiostatistics.shinyapps.io/recount/">recount</a> project.</p>
+<ul>
+<li><a href="https://twitter.com/kaikammers">twitter</a></li>
+<li><a href="https://github.com/kaikammers">github</a></li>
+<li><a href="http://www.biostat.jhsph.edu/~kkammers/contact/index.html">web</a></li>
+</ul>
+<p><strong>Leah Jager</strong></p>
+<p>Leah is an Assistant Scientist in the Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health. Her research focuses on experiments to understand the way that people analyze data through our human-data interaction projects. Along with Margaret she teaches the largest undergraduate biostatistics courses at Johns Hopkins.</p>
+<ul>
+<li><a href="https://github.com/lrjager">github</a></li>
+<li><a href="https://www.jhsph.edu/faculty/directory/profile/2909/leah-r-jager">web</a></li>
+</ul>
+<p><strong>Margaret Taub</strong></p>
+<p>Margaret is an Assistant Scientist in the Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health. She works on methods development in statistical genetics and on analysis problems for high-throughput genomics data, including methylation array data and re-sequencing data. She is also a conributor to our group’s <a href="https://jhubiostatistics.shinyapps.io/recount/">recount</a> project.</p>
+<ul>
+<li><a href="github.com/mtaub">github</a></li>
+<li><a href="http://biostat.jhsph.edu/~mtaub/About.html">web</a></li>
+</ul>
+<hr />
+</div>
+<div id="postdocs" class="section level3">
+<h3>Postdocs</h3>
+<p><strong>Shannon Ellis</strong></p>
+<p>Shannon is a postdoctoral fellow in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health. She has been working with the data in our group’s <a href="https://jhubiostatistics.shinyapps.io/recount/">recount</a> project to build phenotype predictors capable of accurately predicting tissue, sex, and age. She is a curriculum lead for our <a href="http://jhudatascience.org/chromebookdatascience/">Chromebook Data Science</a> program.</p>
+<ul>
+<li><a href="https://twitter.com/shannon_e_ellis">twitter</a></li>
+<li><a href="https://github.com/ShanEllis">github</a></li>
+<li><a href="https://shanellis.github.io/">web</a></li>
+</ul>
+<p><strong>Aboozar Hadavand</strong></p>
+<p>Aboozar is a postdoctoral fellow in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health. His research involves analyzing MOOC data and studying the effectiveness of our new <a href="http://jhudatascience.org/chromebookdatascience/">Chromebook Data Science</a> job training program in Baltimore, MD.</p>
+<ul>
+<li><a href="https://twitter.com/ahdvnd">twitter</a></li>
+<li><a href="https://github.com/ahdvnd">github</a></li>
+<li><a href="http://ahadavand.com/">web</a></li>
+</ul>
+<p><strong>Lucy D’Agostino McGowan</strong></p>
+<p>Lucy is a postdoctoral fellow in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health. She is working on statistical methods for large-scale observational data, including data from electronic medical records. She also blogs at <a href="http://livefreeordichotomize.com/" class="uri">http://livefreeordichotomize.com/</a>.</p>
+<ul>
+<li><a href="https://twitter.com/lucystats">twitter</a></li>
+<li><a href="https://github.com/LucyMcGowan">github</a></li>
+<li><a href="https://www.lucymcgowan.com/">web</a></li>
+</ul>
+</div>
+<div id="students" class="section level3">
+<h3>Students</h3>
+<p><strong>Jack Fu</strong></p>
+<p>Jack is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. He works on projects involving evaluating and developing methods for the analysis of RNASeq data – in particular understanding the variability of transcript assembly and expression quantification. He also works with Robert Scharpf and Ingo Ruczinski on designing a pipeline for the identification of CNVs in disease subpopulations in a familial sharing context.</p>
+<ul>
+<li><a href="https://twitter.com/jfubiostats">twitter</a></li>
+<li><a href="https://github.com/JMF47">github</a></li>
+<li><a href="https://jfubiostats.com/">web</a></li>
+</ul>
+<p><strong>Leslie Myint</strong></p>
+<p>Leslie is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. She works on large scale experiments on human-data interaction through massive online open courses. She also works with Kasper Hansen on methodologies for metabolomics and epigenetics. Leslie blogs at <a href="https://lesliemyint.wordpress.com/" class="uri">https://lesliemyint.wordpress.com/</a>.</p>
+<ul>
+<li><a href="https://github.com/lmyint">github</a></li>
+<li><a href="https://lmyint.github.io/">web</a></li>
+</ul>
+<p><strong>Siruo Wang</strong></p>
+<p>Siruo is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. She works on problems related to predicting genotypes from high-throughput RNA-sequencing data and statistical methods for inference after prediction.</p>
+<ul>
+<li><a href="https://github.com/SiruoWang">github</a></li>
+<li><a href="https://www.linkedin.com/in/siruo-sara-wang-5126a998">web</a></li>
+</ul>
+</div>
+<div id="alumni" class="section level3">
+<h3>Alumni</h3>
+<p><strong>Simina Boca</strong></p>
+<p><a href="https://icbi.georgetown.edu/Boca">Simina</a> was a PhD student in the group and is now an Assistant Professor at the Innovation Center for Biomedical Informatics (ICBI), Georgetown University Medical Center.</p>
+<p><strong>Hilary Parker</strong></p>
+<p><a href="https://hilaryparker.com/">Hilary</a> was a PhD student in the group and is now a data scientist at StichFix.</p>
+<p><strong>Nick Carchedi</strong></p>
+<p><a href="http://nickcarchedi.com/">Nick</a> was a masters student in the group and is now VP of Content at DataCamp</p>
+<p><strong>Andrew Jaffe</strong></p>
+<p><a href="http://aejaffe.com/">Andrew</a> was a PhD student in the group and is now a Lead Investigator at the Lieber Institute for Brain Development.</p>
+<p><strong>Alyssa Frazee</strong></p>
+<p><a href="http://alyssafrazee.com/">Alyssa</a> was a PhD student in the group and is now a Machine Learning Engineer at Stripe.</p>
+<p><strong>Prasad Patil</strong></p>
+<p><a href="http://prasadpatil.net/">Prasad</a> was a PhD student in the group and is now a Postdoctoral Fellow with Giovanni Parmigiani at the Dana Farber Cancer Institute.</p>
+<p><strong>Leo Collado Torres</strong></p>
+<p><a href="http://lcolladotor.github.io/">Leo</a> was a PhD student in the group and is now a data scientist at the Lieber Institute for Brain Development.</p>
+<p><strong>Abhi Nellore</strong></p>
+<p><a href="http://nellore.bio/">Abhi</a> was a postdoctoral fellow co-supervised by Ben Langmead and is now an Assistant Professor at Oregon Health Sciences University.</p>
+<p><strong>Kai Kammers</strong></p>
+<p><a href="http://www.biostat.jhsph.edu/~kkammers/contact/index.html">Kai</a> was a postdoctoral fellow co-supervised by Ingo Ruczinski and is now an Assistant Professor in the Division of Biostatistics and Bioinformatics Department of Oncology at the Sidney Kimmel Cancer Research Center.</p>
+<p><strong>Sean Kross</strong></p>
+<p><a href="http://seankross.com/">Sean</a> was a software engineer in the group and is now a PhD student in cognitive science at UCSD.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

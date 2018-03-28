@@ -1,0 +1,55 @@
+---
+title: ""
+---
+
+<br> <br> 
+
+At a high level we try to use data to solve problems we think provide value for the world. We have focused on problems in molecular biology, human health, the reliability of research, and education but are always looking for new areas where we can contribute. See our [publications](https://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en&oi=ao), the [Simply Statistics blog](https://simplystatistics.org/), or [data and code](./datacode.html) for more detailed information. 
+
+
+
+### Understanding human gene expression
+
+We are interested in understanding how genes in the human body are turned on or turned off during normal human development, in response to disease, and in response to other stimuli. The ultimate goal is to use this knowledge to develop biomarkers that can improve human health. To accomplish this goal we have compiled on the of the largest gene expression resources in the world consisting of more than 70,000 human samples. Our next goals are to better annotate this data and then to use this information and external data resources to begin developing low cost biomarkers for a range of diseases. 
+
+__Related Resources__
+
+* [recount](https://jhubiostatistics.shinyapps.io/recount/)
+
+
+-----
+
+### Human-data interaction
+
+From fake news to the reproducibility crisis understanding how humans interact with data has never been more important. We are using our massive online open courses as a laboratory to study the way that analysts use and understand data. We are also working on developing a scalable laboratory for other people to run human-data interaction experiments either in our courses or on their own populations. 
+
+__Related Resources__
+
+* [Explanation implies causation? (preprint)](https://www.biorxiv.org/content/early/2017/11/13/218784)
+* [A randomized trial in a massive online open course shows people don’t know what a statistically significant relationship looks like, but they can learn (paper)](https://peerj.com/articles/589/)
+
+-----
+
+### Data technology development
+
+We are building data technologies to tackle a range of problems, typically in the form of R packages and Shiny apps. We have built R packages for analyzing genomic data, for collecting information on data analytic patterns, for voice synthesis, and Shiny apps for peer review, environmental assessment and more. 
+
+__Related Resources__
+
+* [derfinder package](http://bioconductor.org/packages/release/bioc/html/derfinder.html)
+* [matahari package](https://github.com/jhudsl/matahari)
+* [papr app](https://jhubiostatistics.shinyapps.io/papr/)
+
+----
+
+
+### Online program development
+
+Through the [Johns Hopkins Data Science Lab](http://jhudatascience.org/) we are interested in building online programs primarily in data analytic fields. We are also interested in using these programs as interventions to improve economic conditions for people both locally in Baltimore and around the world. 
+
+__Related Resources__
+
+* [JHU Data Science MOOCs](http://jhudatascience.org/courses.html)
+* [Chromebook Data Science](http://jhudatascience.org/chromebookdatascience/)
+
+

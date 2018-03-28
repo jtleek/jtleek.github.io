@@ -1,0 +1,148 @@
+---
+title: ""
+---
+
+</br> </br>
+
+### Faculty
+
+__Jeff Leek__ 
+
+Jeff is a Professor of Biostatistics and Oncology at the Johns Hopkins Bloomberg School of Public Health. His research focuses on public health genomics, data science as a science, and research on the scientific literature.  He is also co-creator of the Johns Hopkins Data Science Specialization on Coursera (https://www.coursera.org/specializations/jhu-data-science) that has enrolled over 4 million. He is a co-editor of the journal [Biostatistics](https://biostatistics.oxfordjournals.org/). He writes a blog at [Simply Statistics](https://simplystatistics.org/) and is the co-director of the [Johns Hopkins Data Science Lab](http://jhudatascience.org/). 
+
+* [twitter](https://twitter.com/jtleek)
+* [github](https://github.com/jtleek)
+* [web](http://jtleek.com/)
+
+-----
+
+### Affiliated Faculty
+
+__Kai Kammers__
+
+Kai is an Assistant Professor in the Division of Biostatistics and Bioinformatics Department of Oncology at the Sidney Kimmel Cancer Research Center. His research focused on statistical methods development and analysis of genomic data from high-throughput sequencing and proteomic technologies. He is also a conributor to our group's [recount](https://jhubiostatistics.shinyapps.io/recount/) project. 
+
+* [twitter](https://twitter.com/kaikammers)
+* [github](https://github.com/kaikammers)
+* [web](http://www.biostat.jhsph.edu/~kkammers/contact/index.html)
+
+__Leah Jager__
+
+Leah is an Assistant Scientist in the Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health. Her research focuses on experiments to understand the way that people analyze data through our human-data interaction projects. Along with Margaret she teaches the largest undergraduate biostatistics courses at Johns Hopkins. 
+
+
+* [github](https://github.com/lrjager)
+* [web](https://www.jhsph.edu/faculty/directory/profile/2909/leah-r-jager)
+
+
+__Margaret Taub__
+
+Margaret is an Assistant Scientist in the Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health. She works on methods development in statistical genetics and on analysis problems for high-throughput genomics data, including methylation array data and re-sequencing data. She is also a conributor to our group's [recount](https://jhubiostatistics.shinyapps.io/recount/) project. 
+
+* [github](github.com/mtaub)
+* [web](http://biostat.jhsph.edu/~mtaub/About.html)
+
+
+-----
+
+### Postdocs
+
+__Shannon Ellis__
+
+Shannon is a postdoctoral fellow in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health.  She has been working with the data in our group's [recount](https://jhubiostatistics.shinyapps.io/recount/) project to build phenotype predictors capable of accurately predicting tissue, sex, and age. She is a curriculum lead for our [Chromebook Data Science](http://jhudatascience.org/chromebookdatascience/) program. 
+
+* [twitter](https://twitter.com/shannon_e_ellis)
+* [github](https://github.com/ShanEllis)
+* [web](https://shanellis.github.io/)
+
+
+__Aboozar Hadavand__
+
+Aboozar is a postdoctoral fellow in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health. His research involves analyzing MOOC data and studying the effectiveness of our new [Chromebook Data Science](http://jhudatascience.org/chromebookdatascience/) job training program in Baltimore, MD. 
+
+* [twitter](https://twitter.com/ahdvnd)
+* [github](https://github.com/ahdvnd)
+* [web](http://ahadavand.com/)
+
+__Lucy D'Agostino McGowan__
+
+Lucy is a postdoctoral fellow in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health. She is working on statistical methods for large-scale observational data, including data from electronic medical records. She also blogs at http://livefreeordichotomize.com/.
+
+* [twitter](https://twitter.com/lucystats)
+* [github](https://github.com/LucyMcGowan)
+* [web](https://www.lucymcgowan.com/)
+
+
+### Students
+
+__Jack Fu__
+
+Jack is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. He works on projects involving evaluating and developing methods for the analysis of RNASeq data – in particular understanding the variability of transcript assembly and expression quantification. He also works with Robert Scharpf and Ingo Ruczinski on designing a pipeline for the identification of CNVs in disease subpopulations in a familial sharing context. 
+
+* [twitter](https://twitter.com/jfubiostats)
+* [github](https://github.com/JMF47)
+* [web](https://jfubiostats.com/)
+
+
+__Leslie Myint__
+
+Leslie is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. She works on large scale experiments on human-data interaction through massive online open courses. She also works with Kasper Hansen on methodologies for metabolomics and epigenetics. Leslie blogs at https://lesliemyint.wordpress.com/.  
+
+
+* [github](https://github.com/lmyint)
+* [web](https://lmyint.github.io/)
+
+
+__Siruo Wang__
+
+Siruo is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. She works on problems related to predicting genotypes from high-throughput RNA-sequencing data and statistical methods for inference after prediction. 
+
+* [github](https://github.com/SiruoWang)
+* [web](https://www.linkedin.com/in/siruo-sara-wang-5126a998)
+
+
+### Alumni
+
+__Simina Boca__
+
+[Simina](https://icbi.georgetown.edu/Boca) was a PhD student in the group and is now an Assistant Professor at the Innovation Center for Biomedical Informatics (ICBI), Georgetown University Medical Center. 
+
+__Hilary Parker__
+
+[Hilary](https://hilaryparker.com/) was a PhD student in the group and is now a data scientist at StichFix. 
+
+__Nick Carchedi__
+
+[Nick](http://nickcarchedi.com/) was a masters student in the group and is now VP of Content at DataCamp
+
+__Andrew Jaffe__
+
+[Andrew](http://aejaffe.com/) was a PhD student in the group and is now a Lead Investigator at the Lieber Institute for Brain Development.
+
+__Alyssa Frazee__ 
+
+[Alyssa](http://alyssafrazee.com/) was a PhD student in the group and is now a Machine Learning Engineer at Stripe. 
+
+__Prasad Patil__
+
+[Prasad](http://prasadpatil.net/) was a PhD student in the group and is now a Postdoctoral Fellow with Giovanni Parmigiani at the Dana Farber Cancer Institute. 
+
+__Leo Collado Torres__
+
+[Leo](http://lcolladotor.github.io/) was a PhD student in the group and is now a data scientist at the Lieber Institute for Brain Development. 
+
+__Abhi Nellore__
+
+[Abhi](http://nellore.bio/) was a postdoctoral fellow co-supervised by Ben Langmead and is now an Assistant Professor at Oregon Health Sciences University. 
+
+__Kai Kammers__
+
+[Kai](http://www.biostat.jhsph.edu/~kkammers/contact/index.html) was a postdoctoral fellow co-supervised by Ingo Ruczinski and is now an Assistant Professor in the Division of Biostatistics and Bioinformatics Department of Oncology at the Sidney Kimmel Cancer Research Center.
+
+__Sean Kross__
+
+[Sean](http://seankross.com/) was a software engineer in the group and is now a PhD student in cognitive science at UCSD. 
+
+
+
+
