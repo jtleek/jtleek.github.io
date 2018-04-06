@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -220,6 +222,7 @@ $(document).ready(function () {
 <div id="section" class="section level3">
 <h3>2018</h3>
 <ul>
+<li><em>Jeff</em>: <a href="https://docs.google.com/presentation/d/1uFxTgBXe55OmU55V_uV-AawCH3eiIkHP_Y00Kzyj0jg/edit?usp=sharing">Human behaviorial challenges in biomedical data science</a></li>
 <li><em>Jeff</em>: <a href="https://docs.google.com/presentation/d/1nVAw7E-snu_bcCNhSlUuCP6eWYMxNBDJvsS_Ak4k0D0/edit?usp=sharing">Human-data interaction (Washington)</a></li>
 <li><em>Jeff</em>: <a href="https://docs.google.com/presentation/d/1S9VXkcMLZZ405rMQOaIz1OyNw-43Kt5hER4wcUS1H6M/edit?usp=sharing">Is most published research really false? (Columbia)</a></li>
 </ul>
