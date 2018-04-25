@@ -5,6 +5,7 @@ title: "Talks"
 
 ### 2018
 
+* _Jeff_: [Predicting and using metadata](https://docs.google.com/presentation/d/1FgUZZU6pW91J7zH0OqrEgxfnV1Py_ZGL3ZKHfbOZskY/edit?usp=sharing)
 * _Jeff_: [Human behaviorial challenges in biomedical data science](https://docs.google.com/presentation/d/1uFxTgBXe55OmU55V_uV-AawCH3eiIkHP_Y00Kzyj0jg/edit?usp=sharing)
 * _Jeff_: [Human-data interaction (Washington)](https://docs.google.com/presentation/d/1nVAw7E-snu_bcCNhSlUuCP6eWYMxNBDJvsS_Ak4k0D0/edit?usp=sharing)
 * _Jeff_: [Is most published research really false? (Columbia)](https://docs.google.com/presentation/d/1S9VXkcMLZZ405rMQOaIz1OyNw-43Kt5hER4wcUS1H6M/edit?usp=sharing)
