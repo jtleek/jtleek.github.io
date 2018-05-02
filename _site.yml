@@ -19,7 +19,6 @@ navbar:
     href: https://simplystatistics.org/
   - text: Join us
     href: join.html
-  
 output:
   html_document:
     theme: paper
