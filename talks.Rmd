@@ -5,6 +5,7 @@ title: ""
 
 ### 2018
 
+* _Jeff_: [The future of data science is plain text (eCOTs)](https://docs.google.com/presentation/d/13d_Pn3aOFjm0Rze9qo9K_8ZIwt4n9Hqv3yec-XAaRMI/edit?usp=sharing)
 * _Jeff_: [Predicting and using metadata (Yale)](https://docs.google.com/presentation/d/1QKDIGUKrO8tZkR355_Bg5MGA4fUvr3AdICPlXXg8XoI/edit?usp=sharing)
 * _Jeff_: [Predicting and using metadata (Toronto)](https://docs.google.com/presentation/d/1FgUZZU6pW91J7zH0OqrEgxfnV1Py_ZGL3ZKHfbOZskY/edit?usp=sharing)
 * _Jeff_: [Human behaviorial challenges in biomedical data science](https://docs.google.com/presentation/d/1uFxTgBXe55OmU55V_uV-AawCH3eiIkHP_Y00Kzyj0jg/edit?usp=sharing)
