@@ -6,6 +6,7 @@ title: ""
 
 ### 2018
 
+* _Jeff_: [10 statistics tips (and why you should use them!)](https://docs.google.com/presentation/d/1VZ_TnmyvC98lwTx5ukZm88y2dcg0S1uOIz5V8kwWSYI/edit?usp=sharing)
 * _Jeff_: [Human-behavioral challenges in reproducibility & replicability](https://docs.google.com/presentation/d/1Z4knK4qz8zxMJvbk8melKkgq1qo38eqEJkJt5D37t0E/edit?usp=sharing)
 * _Jeff_: [Human data interaction - things we don't know](https://docs.google.com/presentation/d/1oCbf8NHpJSQAe6LoeD--wV-KbKbdGawrLHYJqwzfj_M/edit?usp=sharing)
 * _Jeff_: [Data science in (bio)stats departments (ASA Chairs)](https://docs.google.com/presentation/d/1Hayp7JQH7uy_X-GOq5vPoAR9Ver0xRJS5PrVqWb87u4/edit?usp=sharing)
