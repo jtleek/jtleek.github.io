@@ -75,24 +75,6 @@ Lucy is a postdoctoral fellow in the biostatistics department at the Johns Hopki
 
 ### Students
 
-__Jack Fu__
-
-Jack is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. He works on projects involving evaluating and developing methods for the analysis of RNASeq data – in particular understanding the variability of transcript assembly and expression quantification. He also works with Robert Scharpf and Ingo Ruczinski on designing a pipeline for the identification of CNVs in disease subpopulations in a familial sharing context. 
-
-* [twitter](https://twitter.com/jfubiostats)
-* [github](https://github.com/JMF47)
-* [web](https://jfubiostats.com/)
-
-
-__Leslie Myint__
-
-Leslie is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. She works on large scale experiments on human-data interaction through massive online open courses. She also works with Kasper Hansen on methodologies for metabolomics and epigenetics. Leslie blogs at https://lesliemyint.wordpress.com/.  
-
-
-* [github](https://github.com/lmyint)
-* [web](https://lmyint.github.io/)
-
-
 __Siruo Wang__
 
 Siruo is a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. She works on problems related to predicting genotypes from high-throughput RNA-sequencing data and statistical methods for inference after prediction. 
@@ -148,6 +130,14 @@ __Sean Kross__
 
 [Sean](http://seankross.com/) was a software engineer in the group and is now a PhD student in cognitive science at UCSD. 
 
+__Jack Fu__
+
+
+[Jack](https://jfubiostats.com/) was a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. He is now a postdoc at the Mass General Hospital. 
+
+__Leslie Myint__
+
+[Leslie](https://lmyint.github.io/) was a PhD student in the Department of Biostatistics at the Johns Hopkins School of Public Health. She is now an assistant professor at Macalaster College. 
 
 
 
