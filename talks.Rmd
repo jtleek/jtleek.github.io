@@ -7,8 +7,8 @@ title: ""
 ### 2018
 
 * _Jeff_: [10 statistics tips (and why you should use them!)](https://docs.google.com/presentation/d/1VZ_TnmyvC98lwTx5ukZm88y2dcg0S1uOIz5V8kwWSYI/edit?usp=sharing)
-* _Jeff_: [Human-behavioral challenges in reproducibility & replicability](https://docs.google.com/presentation/d/1Z4knK4qz8zxMJvbk8melKkgq1qo38eqEJkJt5D37t0E/edit?usp=sharing)
-* _Jeff_: [Human data interaction - things we don't know](https://docs.google.com/presentation/d/1oCbf8NHpJSQAe6LoeD--wV-KbKbdGawrLHYJqwzfj_M/edit?usp=sharing)
+* _Jeff_: [Human-behavioral challenges in reproducibility & replicability (ReproZurich)](https://docs.google.com/presentation/d/1Z4knK4qz8zxMJvbk8melKkgq1qo38eqEJkJt5D37t0E/edit?usp=sharing)
+* _Jeff_: [Human data interaction - things we don't know (JSM 2018)](https://docs.google.com/presentation/d/1oCbf8NHpJSQAe6LoeD--wV-KbKbdGawrLHYJqwzfj_M/edit?usp=sharing)
 * _Jeff_: [Data science in (bio)stats departments (ASA Chairs)](https://docs.google.com/presentation/d/1Hayp7JQH7uy_X-GOq5vPoAR9Ver0xRJS5PrVqWb87u4/edit?usp=sharing)
 * _Jeff_: [Studying Human Gene Expression at Population Scale with the Recount Project (UCSD 2018)](https://docs.google.com/presentation/d/1eixophYVMrNM479mDrCm24wRKiCNh0Xi2T6FhaNX1lQ/edit?usp=sharing)
 * _Jeff_: [Improving the value of public genomic data with phenotype prediction (SAGES 2018)](https://docs.google.com/presentation/d/1iX1iNGvqqW2sWJd1a5BPEMCV1Z-cRd4Q_XIVSfWICoM/edit?usp=sharing)
