@@ -1,0 +1,154 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{cite}
+\pagestyle{myheadings}
+\markright{buildProt.Rnw}
+
+\setlength{\topmargin}{0in}
+\setlength{\textheight}{8in}
+\setlength{\textwidth}{6.5in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+
+\def\rcode#1{\texttt{#1}}
+
+\title{Gathering a Proteomic Matrix with Batch Effects}
+\author{Keith A.~Baggerly}
+%\date{}
+
+\begin{document}
+
+\SweaveOpts{prefix.string=Figures/buildProt}
+
+\maketitle
+\tableofcontents
+\listoffigures
+\listoftables
+
+\section{Executive Summary}
+
+\subsection{Introduction}
+
+We're trying to pull together a protomics data matrix 
+illustrating batch effects. For this purpose, we make
+use of a set of 253 SELDI spectra posted at the 
+NCI/FDA Clinical Proteomics website, 
+\url{http://home.ccr.cancer.gov/ncifdaproteomics/ppatterns.asp}, 
+as OvarianDataset8-7-02.zip.
+The spectra in this dataset were previously examined
+in Baggerly et al.~(2004, 2005), and provide an example
+of complete confounding. 
+
+\subsection{Methods}
+
+We downloaded the zip file and expanded it in RawData. There is
+one csv file per spectrum. Each file has two columns:
+M/Z (mass to charge ratio) and intensity. M/Z values 
+depend on the calibration of the machine, which 
+was not changed during the course of this experiment, 
+so the first column is identical across all files.
+There are 15154 data values per spectrum. The initial
+analysis did no peak selection, so all M/Z values
+are valid measurements.
+
+We assemble the spectral intensities into a single matrix.
+We also produce a common M/Z vector (mzVector) of length 15154,
+a batch vector of length 253, and an outcome vector of length 253.
+
+\subsection{Results}
+
+The assembled matrix and data vectors are saved as 
+both an R Data Object (.Rda) file and as individual 
+csv files. 
+
+\section{Loading Data}
+
+<<grabSpectra>>=
+
+controlFiles <- dir(file.path("RawData","Control"))
+cancerFiles <- dir(file.path("RawData","Ovarian Cancer"))
+nControl <- length(controlFiles)
+nCancer <- length(cancerFiles)
+nMZValues <- 15154
+
+proteinMatrix <- matrix(0,nrow=nMZValues,ncol=nControl+nCancer)
+temp <- read.csv(file.path("RawData","Control",controlFiles[1]))
+mzVector <- temp[,"M.Z"]
+for(i1 in 1:nControl){
+  temp <- read.csv(file.path("RawData","Control",controlFiles[i1]))
+  if(all(temp[,"M.Z"] == mzVector)){
+    proteinMatrix[,i1] <- temp[,"Intensity"]
+  }
+}
+for(i1 in 1:nCancer){
+  temp <- read.csv(file.path("RawData","Ovarian Cancer",cancerFiles[i1]))
+  if(all(temp[,"M.Z"] == mzVector)){
+    proteinMatrix[,(i1+nControl)] <- temp[,"Intensity"]
+  }
+}
+colnames(proteinMatrix) <- 
+  c(substr(controlFiles,9,16),substr(cancerFiles,16,23))
+
+rm(temp, i1)
+
+batchVector <- c(rep("Batch 1",nControl), rep("Batch 2",nCancer))
+outcomeVector <- c(rep("Control",nControl), rep("Ovarian Cancer",nCancer))
+
+@ 
+
+\section{Saving Data}
+
+\subsection{As an Rda File}
+
+<<saveAsRda>>=
+
+save(list=ls(all=TRUE),file=file.path("RDataObjects","allProtein.Rda"))
+
+@ 
+
+\subsection{As csv Files}
+
+<<saveAsCSVFiles>>=
+
+write.csv(proteinMatrix,file=file.path("OutputFiles","proteinMatrix.csv"))
+write.csv(mzVector,file=file.path("OutputFiles","mzVector.csv"))
+write.csv(batchVector,file=file.path("OutputFiles","batchVector.csv"))
+write.csv(outcomeVector,file=file.path("OutputFiles","outcomeVector.csv"))
+
+@ 
+
+\section{Directory Structure}
+
+<<showFiles>>=
+
+getwd()
+dir()
+dir("RNowebSource")
+dir("RawData")
+dir("RDataObjects")
+dir("OutputFiles")
+dir("Figures")
+
+@ 
+
+\section{Appendix}
+
+\subsection{SessionInfo}
+
+<<sessionInfo>>=
+
+sessionInfo();
+
+@ 
+
+%\section{References}
+
+%\begin{thebibliography}{99}
+%\bibitem{salter08} Salter KH, Acharya CR, Walters KS, et al.:
+%  An integrated approach to the prediction of chemotherapeutic
+%  response in patients with breast cancer. 
+%  {\em PLoS ONE}, {\bf 3}:e1908, 2008.
+%\end{thebibliography}
+
+\end{document}
