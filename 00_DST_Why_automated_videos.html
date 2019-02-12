@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>00_DST_Why_automated_videos.utf8.md</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Leek group</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="codedata.html">Data and code</a>
+</li>
+<li>
+  <a href="members.html">Members</a>
+</li>
+<li>
+  <a href="books.html">Books</a>
+</li>
+<li>
+  <a href="talks.html">Talks</a>
+</li>
+<li>
+  <a href="https://simplystatistics.org/">Blog</a>
+</li>
+<li>
+  <a href="join.html">Join us</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="why-automated-videos" class="section level1">
+<h1>Why Automated Videos</h1>
+<p>What’s the deal with these videos? And why do the videos say almost exactly the same thing as the printed lecture material? You have probably already noticed that the lectures and videos for this class are structured a little differently than in many MOOCs you have taken. We created this video to explain to you why we made this change and why we think it highlights the awesome power of R and data science.</p>
+<p>We create a lot of massive online open courses at the Johns Hopkins Data Science Lab. We have created more than 30 courses on multiple platforms over the last 5 years. Our goal with these classes is to provide the best and most up to date information to the broadest audience possible.</p>
+<p>But there are significant challenges to maintaining this much material online. R packages go out of date, new workflows are invented, and typos - oh the typos!</p>
+<p>We used to make these courses like many other universities. We’d create course material in the form of lecture slides, then we’d record videos of ourselves delivering those lectures. In some ways this was great - you actually got to hear our voices delivering your lectures, including all the “yawns”, “ums”, “buts”, and “so’s”. But the downside is that it is difficult and time consuming to update the content when we have to book a recording studio, set up special equipment, record ourselves delivering a lecture, edit those lectures, and then upload them to a system.</p>
+<p>The result is that a lot of our lectures have been out of date, include errors, or don’t include the latest, best versions of wokflows and pipelines. This has been a problem for a while, but as the number of courses we offer grows, it has become more and more of a challenge for us to keep them up to date.</p>
+<p>So we started to think about how to solve this challenging problem. We realized that while recording and editing videos is extremely time consuming there is another type of content we can edit, update, and maintain much more frequently - <a href="https://simplystatistics.org/2017/06/13/the-future-of-education-is-plain-text/">regular old plain text documents</a>. We aren’t the only ones who have thought this - massive online open course innovators like Lorena Barba have been saying that <a href="https://www.class-central.com/report/why-my-mooc-is-not-built-on-video/">videos aren’t even necessary for these types of courses</a>.</p>
+<p>So when we sat down to develop our new process for creating and maintaining our courses we wanted to see if we could figure out how to make a class made entirely out of plain text documents. We broke down a massive online open course into its basic elements:</p>
+<ul>
+<li><strong>Tutorials</strong> - these we can easily write in plain text formats like markdown or R markdown.</li>
+<li><strong>Slides</strong> - these are easy enough to maintain and share if we make them with something like <a href="https://www.google.com/slides/about/">Google Slides</a>.</li>
+<li><strong>Assessments</strong> - here we can use a <a href="https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises">markup language</a> to create quizzes and other assessments.</li>
+<li><strong>Videos</strong> - this was the sticking point, how were we going to make videos from plain text documents?</li>
+</ul>
+<p>By a happy coincidence, the data science and artificial intelligence communities were solving a huge part of this problem for us, improving text to voice synthesis! So we could now write a script for a video and use <a href="https://aws.amazon.com/polly/">Amazon Polly</a> to synthesize our voices!</p>
+<p>To take advantage of this new technology we created two new R packages: <a href="https://cran.r-project.org/web/packages/ari/index.html">ari</a> and <a href="https://github.com/muschellij2/didactr">didactr</a>.</p>
+<p>Ari will take a script and a set of Google Slides and narrate the script over the slides using Amazon Polly. It will also generate the closed caption file needed to include captions and ensure that the videos are accessible to those with hearing impairment. didactr automates several of the steps from creating the videos with ari, to uploading them to Youtube, so that we can quickly make edits to the scripts or slides, remake the videos, re-upload them and reduce our maintainence overhead for keeping our content fresh.</p>
+<p>Whenever we change the text file or edit the slides we can recreated the video in a couple of minutes. Everything is done in R. One of the coolest features of going to this new process is showing you how powerful the R programming langauge is. This is the main language you will learn in this program and we hope you will be able to build cool things like this system by the time you are done with our courses.</p>
+<p>Why did we choose this approach instead of creating each piece of a lesson separately? Well, first, this process makes it a lot easier for us to maintain and update the courses. If you report an issue or find a mistake with a lesson, all we need to do is to change these two files and recreate the courses again. Therefore, we will have a more efficient way of maintaining the course content and updating it. Second, by using this process we have made our instruction more accessible. Since videos have transcripts and transcripts have voice over, the content is accessible by those of us who have disabilities. For everyone else, you can have a choice of reading versus listening versus watching the content as you wish.</p>
+<p>Finally, a cool feature of using text to speech synthesis is that our videos will keep getting better as the voice synthesis software improves. It means tha we can change the voice to different voices. Ultimately, it will alow us to translate our courses into different languages quickly and automatically using machine learning. We think this highlights the incredible power of data science and artificial intelligence to improve the world.</p>
+<p>If you find the robot voice annoying, we get it. We know that the technology isn’t perfect yet. That’s why we’ve made the written lecture material reflect as closely as possible the video lectures. So you can pick how you want to consume our classes. We hope that this change will allow us to better serve you with the best content at the fastest speed. Thanks for participating in this new phase of course development with us!</p>
+<div id="slides-and-video" class="section level3">
+<h3>Slides and Video</h3>
+<div class="figure">
+<img src="https://www.youtube.com/watch?v=iYSdDfbYPNU" alt="Why Automated Videos" />
+<p class="caption">Why Automated Videos</p>
+</div>
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1FtdynwBR8IAE8x9cMTZrnWKfTPXEhH-KwkAZKQ0zwk8/edit?usp=sharing">Slides</a></li>
+</ul>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

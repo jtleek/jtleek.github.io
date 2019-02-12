@@ -1,5 +1,6 @@
 ---
 pagetitle: "Leek group"
+title: "Welcome to the Leek group"
 ---
 
 <br> <br> 

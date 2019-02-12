@@ -4,6 +4,11 @@ pagetitle: "Talks"
 
 <br> 
 
+### 2019
+
+* _Jeff_: [Studying Human Gene Expression at Population Scale with the Recount Project](https://docs.google.com/presentation/d/1UdPYwoY4NaZkKdfFZfnOmDX2-W7qYb4pYZPwzFmbxRk/edit?usp=sharing)
+
+
 ### 2018
 
 * _Jeff_: [10 statistics tips (and why you should use them!)](https://docs.google.com/presentation/d/1VZ_TnmyvC98lwTx5ukZm88y2dcg0S1uOIz5V8kwWSYI/edit?usp=sharing)
