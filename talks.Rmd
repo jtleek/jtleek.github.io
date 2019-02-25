@@ -6,6 +6,7 @@ pagetitle: "Talks"
 
 ### 2019
 
+* _Jeff_: [Data science education as a scalable public health intervention](https://docs.google.com/presentation/d/1a4j7lHEDrLY8586Jk57VYrK8N43wfQlukCaVlEC9CTo/edit?usp=sharing)
 * _Jeff_: [Is most published research false? (a case study in reproducibility)](https://docs.google.com/presentation/d/1c7sGP9tav6OSE50nFotc-HlS0SLlvVxK_Lcu3b_LDvA/edit?usp=sharing)
 * _Jeff_: [Studying Human Gene Expression at Population Scale with the Recount Project](https://docs.google.com/presentation/d/1UdPYwoY4NaZkKdfFZfnOmDX2-W7qYb4pYZPwzFmbxRk/edit?usp=sharing)
 
