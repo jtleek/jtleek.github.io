@@ -1,0 +1,15 @@
+---
+pagetitle: "Understanding Data And Statistics in the Medical Literature"
+---
+
+![UDSML Logo](https://dclrlzd4gl55u.cloudfront.net/375/hero2x?1550512305)
+
+
+* Learn about why [Medicine is a Data Science](https://docs.google.com/presentation/d/1Rpq0AvLVBw3-sIko8GTTWr25UnD3joEqnT1WTZVmwXI/edit?usp=sharing)
+
+* Watch the [Youtube videos](https://www.youtube.com/channel/UCBcVPdI7mwc1ng3eTpuhrlw)
+
+* Take the course and get certified [UDSML on Leanpub](https://leanpub.com/universities/courses/jhu/udsml)
+
+
+
