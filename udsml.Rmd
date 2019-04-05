@@ -8,7 +8,7 @@ pagetitle: "Understanding Data And Statistics in the Medical Literature"
 
 
 
-## - Learn why [Medicine is a Data Science](https://docs.google.com/presentation/d/1Rpq0AvLVBw3-sIko8GTTWr25UnD3joEqnT1WTZVmwXI/edit?usp=sharing)
+## - Learn why [Medicine is a Data Science](https://www.youtube.com/watch?v=lCdlRx1L5yg&t=29s)
 
 ## -  Watch the [Youtube videos](https://www.youtube.com/channel/UCBcVPdI7mwc1ng3eTpuhrlw)
 
