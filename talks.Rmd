@@ -6,7 +6,7 @@ pagetitle: "Talks"
 
 ### 2019
 
-*_Jeff_ : [Medicine is a data science we should teach like it](https://docs.google.com/presentation/d/1Rpq0AvLVBw3-sIko8GTTWr25UnD3joEqnT1WTZVmwXI/edit?usp=sharing)
+* _Jeff_ : [Medicine is a data science we should teach like it](https://docs.google.com/presentation/d/1Rpq0AvLVBw3-sIko8GTTWr25UnD3joEqnT1WTZVmwXI/edit?usp=sharing)
 * _Jeff_ : [Navigating the garden of forking paths -- multiple testing and p-hacking and pre-registration (oh my!)](https://docs.google.com/presentation/d/1HZLts6gBiTfBT09Zck7vlPAAb988gD_Ni45PCoBjUkQ/edit?usp=sharing)
 * _Jeff_ : [Data science education as a scalable public health intervention (Irvine)](https://docs.google.com/presentation/d/1kaNinoJ5zIYp_WetfflXiJ3c52jvSEhUBjISHgZMAcE/edit?usp=sharing)
 * _Jeff_: [Data science education as a scalable public health intervention (Chicago)](https://docs.google.com/presentation/d/1a4j7lHEDrLY8586Jk57VYrK8N43wfQlukCaVlEC9CTo/edit?usp=sharing)
