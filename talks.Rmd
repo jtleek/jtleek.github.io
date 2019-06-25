@@ -6,7 +6,7 @@ pagetitle: "Talks"
 
 ### 2019
 
-
+* _Jeff_: [Inference after prediction](https://docs.google.com/presentation/d/1KPwql_YeVXyUImd9ZL4w2IGUduaN6c4DEbVuLn5vif4/edit?usp=sharing)
 * _Jeff_: [The future of educational content development is plain text](https://docs.google.com/presentation/d/16z5tJAJvW5bqheGr3UgfIdaugohWBuIIImif7n6x7kI/edit?usp=sharing)
 * _Jeff_: [The relationship between statistics and trust in science](https://docs.google.com/presentation/d/1mWhuyCTFEJSzCqLQrRxgsdyi2h7NhIm8rSxDuOnAA5M/edit?usp=sharing)
 * _Jeff_ : [Medicine is a data science we should teach like it](https://docs.google.com/presentation/d/1Rpq0AvLVBw3-sIko8GTTWr25UnD3joEqnT1WTZVmwXI/edit?usp=sharing)
