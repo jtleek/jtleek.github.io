@@ -6,6 +6,7 @@ pagetitle: "Talks"
 
 ### 2019
 
+* _Jeff_: [Data Science Education as an Economic and Public Health Intervention—How (bio)Statisticians Can Lead Change in the World](https://docs.google.com/presentation/d/19EZ0cjULt8RKcEG1unsHL3bnV_zwzRq5Uyj9DLajQxM/edit?usp=sharing)
 * _Jeff_: [Data Science Education as an Economic and Public Health Intervention—How Biostatisticians Can Lead Change in the World](https://docs.google.com/presentation/d/1MG_7HmZ1tTsepuka3NILxoAwkb3hD8_y4zA2tbWBMbU/edit?usp=sharing)
 * _Jeff_: [Inference after prediction](https://docs.google.com/presentation/d/1KPwql_YeVXyUImd9ZL4w2IGUduaN6c4DEbVuLn5vif4/edit?usp=sharing)
 * _Jeff_: [The future of educational content development is plain text](https://docs.google.com/presentation/d/16z5tJAJvW5bqheGr3UgfIdaugohWBuIIImif7n6x7kI/edit?usp=sharing)
