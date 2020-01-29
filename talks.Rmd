@@ -6,7 +6,7 @@ pagetitle: "Talks"
 
 ### 2019
 
-
+* _Jeff_: [Using data science to create economic opportunities in East Baltimore](https://docs.google.com/presentation/d/1ZMrlruXg5yZJPEdKVt5wyMwG89k2e8_maPuFhQwf5u0/edit?usp=sharing)
 * _Jeff_: [Human data interaction (things we don't know)](https://docs.google.com/presentation/d/1_DdyJbITRwRI-iY2S6fL9EiPL28ViefHvh0lmyBh8hU/edit?usp=sharing)
 * _Jeff_: [(Genomic) Data Science Education as an Economic and Public Health Intervention](https://docs.google.com/presentation/d/1nBzGsFYLaYRYfxS0bu53CjYw6Gd4lEoJACdrVW6oBjQ/edit?usp=sharing)
 * _Jeff_: [Data Science Education as an Economic and Public Health Intervention—How (bio)Statisticians Can Lead Change in the World](https://docs.google.com/presentation/d/19EZ0cjULt8RKcEG1unsHL3bnV_zwzRq5Uyj9DLajQxM/edit?usp=sharing)
