@@ -7,7 +7,9 @@ pagetitle: "Talks"
 ### 2020
 
 
-* [Jeff]: [Why you should care about statistics](https://docs.google.com/presentation/d/1VdEM9RIBKE1lkd590q3RXB0cbghjfOWhLUtcxxnb9vM/edit?usp=sharing)
+* _Jeff_: [Mutually intensive data science learning as an economic and public health intervention ](https://docs.google.com/presentation/d/1siaFeo2ES6VKog3ksFF-5IUeuUbP4yUQUc0bK5JDnlQ/edit?usp=sharing)
+
+* _Jeff_: [Why you should care about statistics](https://docs.google.com/presentation/d/1VdEM9RIBKE1lkd590q3RXB0cbghjfOWhLUtcxxnb9vM/edit?usp=sharing)
 
 * _Jeff_: [The Johns Hopkins Data Science Lab Overview](https://docs.google.com/presentation/d/15hmde7rCTI6GKwydLchK4qgJws0uafbIoriRH_BvQfk/edit?usp=sharing)
 
