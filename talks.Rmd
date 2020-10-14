@@ -6,6 +6,8 @@ pagetitle: "Talks"
 
 ### 2020
 
+
+* _Jeff_: [Post-prediction inference](https://docs.google.com/presentation/d/1a85l3QOtnuO_1mjGnqEXnluk0jQXGuol_E0udQ9-fvk/edit?usp=sharing)
 * _Jeff_: [Mutually intensive data science learning as an economic and public health intervention](https://docs.google.com/presentation/d/17e8r1ZpjHmLQq49JTEV5t-wR2j-8hnOpAoxuk1_-VzU/edit?usp=sharing)
 * _Jeff_: [Mutually intensive data science learning as an economic and public health intervention ](https://docs.google.com/presentation/d/1siaFeo2ES6VKog3ksFF-5IUeuUbP4yUQUc0bK5JDnlQ/edit?usp=sharing)
 * _Jeff_: [Why you should care about statistics](https://docs.google.com/presentation/d/1VdEM9RIBKE1lkd590q3RXB0cbghjfOWhLUtcxxnb9vM/edit?usp=sharing)
