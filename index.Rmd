@@ -51,3 +51,5 @@ These are some things I've helped produce.
 **[Guides](https://github.com/search?q=user%3Ajtleek+guides)** | Guides I've written
 
 **[Courses](https://github.com/jtleek/courses)** | Courses I've taught
+
+**[Blog](https://simplystatistics.org/)** | Blog I help write
