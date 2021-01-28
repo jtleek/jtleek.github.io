@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-Jeff is a professor of Biostatistics and Oncology at the Johns Hopkins Bloomberg School of Public Health and co-director of the Johns Hopkins Data Science Lab.  His group develops statistical methods, software, data resources, and data analyses that help people make sense of massive-scale genomic and biomedical data.  As the co-director of the Johns Hopkins Data Science Lab he has helped to develop massive online open programs that have enrolled more than 8 million individuals and partnered with community-based non-profits to used data science education as an economic and public health intervention. 
+Jeff is a professor of Biostatistics and Oncology at the Johns Hopkins Bloomberg School of Public Health and co-director of the Johns Hopkins Data Science Lab.  His group develops statistical methods, software, data resources, and data analyses that help people make sense of massive-scale genomic and biomedical data.  As the co-director of the Johns Hopkins Data Science Lab he has helped to develop massive online open programs that have enrolled more than 8 million individuals and partnered with community-based non-profits to used data science education as an economic and public health intervention. He is a Fellow of the American Statistical Association and [Mortimer Spiegelman Award](https://spiegelmanaward.github.io/) recipient.  
 
 ## Projects
 
