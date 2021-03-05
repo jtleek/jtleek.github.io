@@ -30,7 +30,7 @@ These are some things I'm helping build.
 
 **[Cloud Data Science](https://www.clouddatascience.org/)** | Training for under-served communities
 
-**[Genomic Data Science Community Network](http://www.gdscn.org/)** | Faculty network to expand access to genomic data science
+**[GDSCN](http://www.gdscn.org/)** | Faculty network to expand access to genomic data science
 
 **[ITCR Training](https://www.itcrtraining.org/)** | Cancer data science resource
 
