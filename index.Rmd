@@ -10,13 +10,15 @@ links:
     url: "https://www.linkedin.com/in/jtleek/"
   - label: Work with me
     url: "https://github.com/jtleek/jobs"
+  - label: Hey World
+    url: "https://world.hey.com/jtleek"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Jeff is a professor of Biostatistics and Oncology at the Johns Hopkins Bloomberg School of Public Health and co-director of the Johns Hopkins Data Science Lab.  His group develops statistical methods, software, data resources, and data analyses that help people make sense of massive-scale genomic and biomedical data.  As the co-director of the Johns Hopkins Data Science Lab he has helped to develop massive online open programs that have enrolled more than 8 million individuals and partnered with community-based non-profits to used data science education as an economic and public health intervention. He is a Fellow of the American Statistical Association and [Mortimer Spiegelman Award](https://spiegelmanaward.github.io/) recipient.  
+Jeff is a professor of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) and [Oncology](https://www.rits.onc.jhmi.edu/dbb/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/) and co-director of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/).  His group develops statistical methods, software, data resources, and data analyses that help people make sense of massive-scale genomic and biomedical data.  As the co-director of the Johns Hopkins Data Science Lab he has helped to develop massive online open programs that have enrolled more than 8 million individuals and partnered with community-based non-profits to [use data science education for economic and public health development](https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members).  He is a Fellow of the American Statistical Association and [Mortimer Spiegelman Award](https://spiegelmanaward.github.io/) recipient.  
 
 ## Projects
 
@@ -27,6 +29,8 @@ These are some things I'm helping build.
 **[JHU Data Science Lab](https://jhudatascience.org/)** | Scalable education and MOOCs
 
 **[Cloud Data Science](https://www.clouddatascience.org/)** | Training for under-served communities
+
+**[Genomic Data Science Community Network](http://www.gdscn.org/)** | Faculty network to expand access to genomic data science
 
 **[ITCR Training](https://www.itcrtraining.org/)** | Cancer data science resource
 
