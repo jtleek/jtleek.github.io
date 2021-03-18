@@ -57,3 +57,15 @@ These are some things I've helped produce.
 **[Courses](https://github.com/jtleek/courses)** | Courses I've taught
 
 **[Blog](https://simplystatistics.org/)** | Blog I help write
+
+
+## Spinoffs
+
+These are spinoff products from our group
+
+**[papr](http://www.papr.io/)** | Tinder for preprints
+
+**[Streamline](https://streamlinedatascience.io/)** | Tidy data as a service
+
+**[swirl](https://swirlstats.com/)** | Learn R in R 
+
