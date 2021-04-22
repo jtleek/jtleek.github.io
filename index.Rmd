@@ -28,7 +28,7 @@ These are some things I'm helping build.
 
 **[JHU Data Science Lab](https://jhudatascience.org/)** | Scalable education and MOOCs
 
-**[Cloud Data Science](https://www.clouddatascience.org/)** | Training for under-served communities
+**[DataTrail](https://www.datatrail.org/)** | Mutually intensive learning to create economic opportunities
 
 **[GDSCN](http://www.gdscn.org/)** | Faculty network to expand access to genomic data science
 
