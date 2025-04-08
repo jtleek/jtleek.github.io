@@ -4,21 +4,24 @@ image: "jeff.jpg"
 links:
   - label: GitHub
     url: "https://github.com/jtleek"
-  - label: Twitter
-    url: "https://twitter.com/jtleek"
+  - label: BlueSky
+    url: "https://bsky.app/profile/jtleek.bsky.social"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/jtleek/"
   - label: Work with me
     url: "https://github.com/jtleek/jobs"
-  - label: Hey World
-    url: "https://world.hey.com/jtleek"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/). Previously, he was a professor of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) and [Oncology](https://www.rits.onc.jhmi.edu/dbb/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/) and co-director of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/).  His group develops statistical methods, software, data resources, and data analyses that help people make sense of massive-scale genomic and biomedical data.  As the co-director of the Johns Hopkins Data Science Lab he helped to develop massive online open programs that have enrolled more than 8 million individuals and partnered with community-based non-profits to [use data science education for economic and public health development](https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members).  He is a Fellow of the American Statistical Association and a recipient of the [Mortimer Spiegelman Award](https://spiegelmanaward.github.io/) and [Committee of Presidents of Statistical Societies Presidential Award](https://en.wikipedia.org/wiki/COPSS_Presidents%27_Award).  
+Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/). Previously, he was a professor of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) and [Oncology](https://www.rits.onc.jhmi.edu/dbb/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/) and co-director of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/).  His group develops statistical methods, software, data resources, and data analyses that help people make sense of massive-scale genomic and biomedical data.  
+
+As the co-director of the Johns Hopkins Data Science Lab he helped to develop massive online open programs that have enrolled more than 8 million individuals and partnered with community-based non-profits to [use data science education for economic and public health development](https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members). As Chief Data Officer at Fred Hutch he has focused on [creating a robust and coordinated data ecosystem](https://ocdo.fredhutch.org/) for all members of the Fred Hutch community and beyond. 
+
+He is a Fellow of the American Statistical Association and a recipient of the [Mortimer Spiegelman Award](https://spiegelmanaward.github.io/) and [Committee of Presidents of Statistical Societies Presidential Award](https://en.wikipedia.org/wiki/COPSS_Presidents%27_Award).  
+
 
 ## Projects
 
@@ -26,9 +29,7 @@ These are some things I'm helping build.
 
 **[recount](https://jhubiostatistics.shinyapps.io/recount/)** | Population scale gene expression
 
-**[JHU Data Science Lab](https://jhudatascience.org/)** | Scalable education and MOOCs
-
-**[DataTrail](https://www.datatrail.org/)** | Mutually intensive learning to create economic opportunities
+**[Fred Hutch Data Science Lab](https://ocdo.fredhutch.org/)** | Building a coordinated data ecosystem for Fred Hutch 
 
 **[GDSCN](http://www.gdscn.org/)** | Faculty network to expand access to genomic data science
 
@@ -36,13 +37,25 @@ These are some things I'm helping build.
 
 **[AnVIL](https://anvilproject.org/)** | Genomic data science in the cloud
 
+**[Synthesize Bio](https://www.synthesize.bio/)** | Generative gene expression with AI
+
+**[Cancer AI Alliance](https://www.canceralliance.ai/)** | National scale federated learning for cancer ([support CAIA](https://secure.fredhutch.org/site/TR?px=2244315&fr_id=2142&pg=personal)).
+
+
+## Things I Have Helped Build Before
+
+**[DataTrail](https://www.datatrail.org/)** | Mutually intensive learning to create economic opportunities
+
+**[JHU Data Science Lab](https://jhudatascience.org/)** | Scalable education and MOOCs
+
+**[Blackbird Laboratories](https://blackbirdlab.org/)** | Next generation life science accelerator in
 
 
 ## Products
 
 These are some things I've helped produce. 
 
-**[Talks](https://github.com/jtleek/talks)** |  Talks about our work
+**[Talks](https://jtleek.com/talks)** |  Talks about our work
 
 **[Papers](https://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en&oi=ao)** | Papers about our work
 
@@ -68,4 +81,3 @@ These are spinoff products from our group
 **[Streamline](https://streamlinedatascience.io/)** | Tidy data as a service
 
 **[swirl](https://swirlstats.com/)** | Learn R in R 
-
