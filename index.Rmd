@@ -8,7 +8,7 @@ links:
     url: "https://bsky.app/profile/jtleek.bsky.social"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/jtleek/"
-  - label: Work with me
+  - label: Work With Me
     url: "https://github.com/jtleek/jobs"
 output:
   postcards::trestles
