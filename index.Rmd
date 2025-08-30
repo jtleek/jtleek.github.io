@@ -16,44 +16,27 @@ output:
  
 ## Bio
 
-Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/). Previously, he was a professor of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) and [Oncology](https://www.rits.onc.jhmi.edu/dbb/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/) and co-director of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/).  His group develops statistical methods, software, data resources, and data analyses that help people make sense of massive-scale genomic and biomedical data.  
+Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/). The theme of Jeff's work is to "build things to help people". Currently his major areas of focus are:
 
-As the co-director of the Johns Hopkins Data Science Lab he helped to develop massive online open programs that have enrolled more than 8 million individuals and partnered with community-based non-profits to [use data science education for economic and public health development](https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members). As Chief Data Officer at Fred Hutch he has focused on [creating a robust and coordinated data ecosystem](https://ocdo.fredhutch.org/) for all members of the Fred Hutch community and beyond. 
+- The [Cancer AI Alliance](https://www.canceralliance.ai/) | a national alliance to build a federated AI cancer laboratory 
+- The [Fred Hutch Data Science Lab](https://hutchdatascience.org/)/[Fred Hutch Office of the Chief Data Officer](https://ocdo.fredhutch.org/) | The Data Office function supporting the data ecosystem at Fred Hutch 
+- [Synthesize Bio](https://www.synthesize.bio/) | The generative genomics company building AI models to perform biomedical experiments. 
+- Leading a research group at [Fred Hutchinson Cancer Center](https://www.fredhutch.org/en/faculty-lab-directory/leek-jeff.html)
 
-He is a Fellow of the American Statistical Association and a recipient of the [Mortimer Spiegelman Award](https://spiegelmanaward.github.io/) and [Committee of Presidents of Statistical Societies Presidential Award](https://en.wikipedia.org/wiki/COPSS_Presidents%27_Award).  
+Previously, as the co-director of the Johns Hopkins Data Science Lab, he worked on
 
+- The JHU Data Science Specialization | [Massive online open courses](https://www.coursera.org/specializations/jhu-data-science/) that have taught more than 10 million people data science and AI skills 
+- Datatrail | A community-based data science education for [economic and public health development](https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members). 
+- The Genomic Data Science Community Network  | A faculty network to [expand access to genomic data science](http://www.gdscn.org/)
+- The ITCR Training Network  | A training network to help people learn to use cancer informatics tools [ITCR Training](https://www.itcrtraining.org/) 
+- [Blackbird Laboratories](https://blackbirdlab.org/) | Next generation life science accelerator in Baltimore 
+- [swirl](https://swirlstats.com/)** | Software to learn R in R 
 
-## Projects
-
-These are some things I'm helping build. 
-
-**[recount](https://jhubiostatistics.shinyapps.io/recount/)** | Population scale gene expression
-
-**[Fred Hutch Data Science Lab](https://ocdo.fredhutch.org/)** | Building a coordinated data ecosystem for Fred Hutch 
-
-**[GDSCN](http://www.gdscn.org/)** | Faculty network to expand access to genomic data science
-
-**[ITCR Training](https://www.itcrtraining.org/)** | Cancer data science resource
-
-**[AnVIL](https://anvilproject.org/)** | Genomic data science in the cloud
-
-**[Synthesize Bio](https://www.synthesize.bio/)** | Generative gene expression with AI
-
-**[Cancer AI Alliance](https://www.canceralliance.ai/)** | National scale federated learning for cancer ([support CAIA](https://secure.fredhutch.org/site/TR?px=2244315&fr_id=2142&pg=personal)).
-
-
-## Things I Have Helped Build Before
-
-**[DataTrail](https://www.datatrail.org/)** | Mutually intensive learning to create economic opportunities
-
-**[JHU Data Science Lab](https://jhudatascience.org/)** | Scalable education and MOOCs
-
-**[Blackbird Laboratories](https://blackbirdlab.org/)** | Next generation life science accelerator in
-
+He is a Fellow of the American Statistical Association and a recipient of the [Mortimer Spiegelman Award](https://spiegelmanaward.github.io/), [Committee of Presidents of Statistical Societies Presidential Award](https://en.wikipedia.org/wiki/COPSS_Presidents%27_Award) and was named to the [Time AI 100](https://time.com/collections/time100-ai-2025/7305795/jeff-leek/).  
 
 ## Products
 
-These are some things I've helped produce. 
+These are products of our various efforts to help people make sense of biomedical data. 
 
 **[Talks](https://jtleek.com/talks)** |  Talks about our work
 
@@ -71,13 +54,3 @@ These are some things I've helped produce.
 
 **[Blog](https://simplystatistics.org/)** | Blog I help write
 
-
-## Spinoffs
-
-These are spinoff products from our group
-
-**[papr](http://www.papr.io/)** | Tinder for preprints
-
-**[Streamline](https://streamlinedatascience.io/)** | Tidy data as a service
-
-**[swirl](https://swirlstats.com/)** | Learn R in R 
