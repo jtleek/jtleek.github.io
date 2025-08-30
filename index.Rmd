@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/). The theme of Jeff's work is to "build things to help people". Currently his major areas of focus are:
+Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/) and co-founder and co-CEO at [Synthesize Bio](https://www.synthesize.bio/). The theme of Jeff's work is to "build things to help people". Currently his major areas of focus are:
 
 - The [Cancer AI Alliance](https://www.canceralliance.ai/) | a national alliance to build a federated AI cancer laboratory 
 - The [Fred Hutch Data Science Lab](https://hutchdatascience.org/)/[Fred Hutch Office of the Chief Data Officer](https://ocdo.fredhutch.org/) | The Data Office function supporting the data ecosystem at Fred Hutch 
