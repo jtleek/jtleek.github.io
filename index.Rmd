@@ -21,16 +21,16 @@ Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of
 - The [Cancer AI Alliance](https://www.canceralliance.ai/) | a national alliance to build a federated AI cancer laboratory 
 - The [Fred Hutch Data Science Lab](https://hutchdatascience.org/)/[Fred Hutch Office of the Chief Data Officer](https://ocdo.fredhutch.org/) | The Data Office function supporting the data ecosystem at Fred Hutch 
 - [Synthesize Bio](https://www.synthesize.bio/) | The generative genomics company building AI models to perform biomedical experiments. 
-- Leading a research group at [Fred Hutchinson Cancer Center](https://www.fredhutch.org/en/faculty-lab-directory/leek-jeff.html)
+- [A Fred Hutch research group](https://www.fredhutch.org/en/faculty-lab-directory/leek-jeff.html) | Focused on biomedical data science and AI
 
 Previously, as the co-director of the Johns Hopkins Data Science Lab, he worked on
 
-- The JHU Data Science Specialization | [Massive online open courses](https://www.coursera.org/specializations/jhu-data-science/) that have taught more than 10 million people data science and AI skills 
-- Datatrail | A community-based data science education for [economic and public health development](https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members). 
-- The Genomic Data Science Community Network  | A faculty network to [expand access to genomic data science](http://www.gdscn.org/)
-- The ITCR Training Network  | A training network to help people learn to use cancer informatics tools [ITCR Training](https://www.itcrtraining.org/) 
+- [The JHU Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science/) | Massive online open courses that have taught more than 10 million people data science and AI skills 
+- [Datatrail](https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members) | A community-based data science education for economic and public health development.
+- [The Genomic Data Science Community Network](http://www.gdscn.org/) | A faculty network to [expand access to genomic data science
+- [The ITCR Training Network](https://www.itcrtraining.org/)   | A training network to help people learn to use cancer informatics tools 
 - [Blackbird Laboratories](https://blackbirdlab.org/) | Next generation life science accelerator in Baltimore 
-- [swirl](https://swirlstats.com/)** | Software to learn R in R 
+- [swirl](https://swirlstats.com/) | Software to learn R in R 
 
 He is a Fellow of the American Statistical Association and a recipient of the [Mortimer Spiegelman Award](https://spiegelmanaward.github.io/), [Committee of Presidents of Statistical Societies Presidential Award](https://en.wikipedia.org/wiki/COPSS_Presidents%27_Award) and was named to the [Time AI 100](https://time.com/collections/time100-ai-2025/7305795/jeff-leek/).  
 
