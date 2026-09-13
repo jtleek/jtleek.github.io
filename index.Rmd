@@ -16,15 +16,15 @@ output:
  
 ## Bio
 
-Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/) and co-founder and co-CEO at [Synthesize Bio](https://www.synthesize.bio/). The theme of Jeff's work is to "build things to help people". Currently his major areas of focus are:
+Jeff is J Orin Edson Foundation Chair of Biostatistics at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/) and co-founder and CEO at [Synthesize Bio](https://www.synthesize.bio/). The theme of Jeff's work is to "build things to help people". Currently his major areas of focus are:
 
-- The [Cancer AI Alliance](https://www.canceralliance.ai/) | a national alliance to build a federated AI cancer laboratory 
-- The [Fred Hutch Data Science Lab](https://hutchdatascience.org/)/[Fred Hutch Office of the Chief Data Officer](https://ocdo.fredhutch.org/) | The Data Office function supporting the data ecosystem at Fred Hutch 
 - [Synthesize Bio](https://www.synthesize.bio/) | The generative genomics company building AI models to perform biomedical experiments. 
+- The [Cancer AI Alliance](https://www.canceralliance.ai/) | a national alliance to build a federated AI cancer laboratory 
 - [A Fred Hutch research group](https://www.fredhutch.org/en/faculty-lab-directory/leek-jeff.html) | Focused on biomedical data science and AI
 
-Previously, as the co-director of the Johns Hopkins Data Science Lab, he worked on
+Some of his past projects are: 
 
+- The [Fred Hutch Data Science Lab](https://hutchdatascience.org/)/[Fred Hutch Office of the Chief Data Officer](https://ocdo.fredhutch.org/) | The Data Office function supporting the data ecosystem at Fred Hutch 
 - [The JHU Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science/) | Massive online open courses that have taught more than 10 million people data science and AI skills 
 - [Datatrail](https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members) | A community-based data science education for economic and public health development.
 - [The Genomic Data Science Community Network](http://www.gdscn.org/) | A faculty network to [expand access to genomic data science
